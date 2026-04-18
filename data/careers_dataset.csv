@@ -1,0 +1,1001 @@
+skills,interests,education_level,years_experience,certifications,projects,target_career
+"html, node.js, databases","backend systems, frontend development, ui design",Self-Taught,3,Certified,portfolio website,Web Developer
+"python, git, java, data structures, algorithms, system design","coding, software architecture",PhD,3,None,algorithm visualizer,Software Engineer
+"html, javascript, css, api","building websites, ui design, backend systems",Master,6,Certified,e-commerce site,Web Developer
+"css, javascript, node.js, react, api","frontend development, backend systems, building websites",Bachelor,0,In Progress,e-commerce site,Web Developer
+"css, node.js, react, html, javascript","frontend development, building websites, backend systems, ui design",Self-Taught,10,In Progress,portfolio website,Web Developer
+"figma, wireframing, user research","user testing, design capability, visual design, user interface",Master,10,Certified,mobile app design,UX Designer
+"sketch, wireframing, adobe xd, figma, user research, prototyping","user interface, user testing",Bachelor,3,In Progress,user flow diagram,UX Designer
+"adobe xd, prototyping, sketch, wireframing, user research, figma","visual design, design capability, user interface",PhD,7,Certified,mobile app design,UX Designer
+"html, react, node.js, javascript, databases","backend systems, building websites, ui design",Bachelor,6,Certified,portfolio website,Web Developer
+"css, javascript, react","backend systems, frontend development, building websites, ui design",PhD,3,In Progress,chat application,Web Developer
+"figma, prototyping, sketch","user testing, design capability",Self-Taught,4,In Progress,website redesign,UX Designer
+"sql, python, nlp, pandas, statistics, numpy, machine learning","building models, solving complex problems",PhD,9,None,customer churn prediction,Data Scientist
+"wireframing, figma, prototyping","design capability, user testing, visual design, user interface",PhD,8,Certified,user flow diagram,UX Designer
+"python, pandas, statistics, nlp, machine learning, deep learning, numpy, sql","ai research, analyzing data, building models, solving complex problems",Self-Taught,4,Certified,customer churn prediction,Data Scientist
+"agile, analytics, communication, market research","leading teams, product strategy, user experience",Self-Taught,5,Certified,market analysis,Product Manager
+"deep learning, machine learning, nlp, statistics, numpy, pandas, sql, python","building models, solving complex problems, ai research",PhD,5,In Progress,image classification,Data Scientist
+"c++, git, system design, java","backend logic, coding, optimizing performance",Self-Taught,6,In Progress,algorithm visualizer,Software Engineer
+"git, python, algorithms, java, c++, system design","software architecture, optimizing performance",Self-Taught,4,Certified,desktop application,Software Engineer
+"wireframing, figma, adobe xd, user research, prototyping","user testing, design capability",Self-Taught,5,Certified,mobile app design,UX Designer
+"api, react, javascript, html, databases, css","backend systems, building websites",PhD,1,None,chat application,Web Developer
+"prototyping, sketch, adobe xd","user interface, design capability, visual design, user testing",Master,4,None,mobile app design,UX Designer
+"adobe xd, wireframing, sketch, figma","visual design, design capability",Master,1,None,mobile app design,UX Designer
+"roadmapping, communication, agile","user experience, product strategy",Master,5,None,user research,Product Manager
+"c++, java, python, git, algorithms, data structures","backend logic, software architecture, optimizing performance, coding",Self-Taught,10,In Progress,desktop application,Software Engineer
+"data structures, git, c++, python, java, system design, algorithms","backend logic, software architecture, coding, optimizing performance",Master,9,In Progress,algorithm visualizer,Software Engineer
+"python, deep learning, numpy, statistics","solving complex problems, ai research, building models, analyzing data",Self-Taught,6,None,image classification,Data Scientist
+"git, python, system design","backend logic, coding, software architecture",Self-Taught,8,Certified,algorithm visualizer,Software Engineer
+"api, databases, html, javascript, css","backend systems, frontend development, ui design, building websites",Master,7,None,portfolio website,Web Developer
+"prototyping, user research, sketch, figma","visual design, user testing, user interface",Bachelor,2,In Progress,website redesign,UX Designer
+"communication, scrum, market research, analytics, roadmapping, agile","user experience, leading teams, business growth",PhD,6,In Progress,market analysis,Product Manager
+"css, api, react, databases","building websites, ui design",Master,7,In Progress,e-commerce site,Web Developer
+"agile, market research, roadmapping, scrum, communication, analytics","user experience, business growth, leading teams",Bachelor,1,None,product launch,Product Manager
+"pandas, deep learning, machine learning, python, sql, nlp","building models, ai research",Bachelor,8,In Progress,image classification,Data Scientist
+"user research, adobe xd, sketch, figma, prototyping","design capability, user interface, visual design, user testing",Bachelor,8,In Progress,website redesign,UX Designer
+"api, databases, react","ui design, backend systems, building websites",Self-Taught,1,In Progress,e-commerce site,Web Developer
+"agile, scrum, roadmapping, market research","business growth, user experience",PhD,0,In Progress,product launch,Product Manager
+"analytics, scrum, communication, agile","product strategy, user experience, business growth",Self-Taught,0,In Progress,user research,Product Manager
+"user research, wireframing, adobe xd","visual design, user interface",Self-Taught,4,None,mobile app design,UX Designer
+"node.js, javascript, html, api, databases, css, react","backend systems, building websites, ui design",Self-Taught,4,None,portfolio website,Web Developer
+"html, javascript, api, node.js, react, databases","building websites, ui design",Bachelor,1,None,portfolio website,Web Developer
+"api, css, html, databases, javascript","frontend development, building websites, backend systems",Master,10,None,portfolio website,Web Developer
+"sketch, adobe xd, prototyping","visual design, user testing",Bachelor,1,None,website redesign,UX Designer
+"communication, roadmapping, scrum, analytics, market research","business growth, product strategy, leading teams, user experience",Bachelor,2,In Progress,product launch,Product Manager
+"css, javascript, react, databases, node.js","ui design, building websites",Self-Taught,6,None,e-commerce site,Web Developer
+"python, system design, java","optimizing performance, coding",Master,5,In Progress,algorithm visualizer,Software Engineer
+"git, java, algorithms, c++, system design","backend logic, coding",Bachelor,4,Certified,algorithm visualizer,Software Engineer
+"wireframing, sketch, prototyping, adobe xd, figma","user testing, user interface, design capability",Bachelor,4,In Progress,website redesign,UX Designer
+"git, data structures, java, c++","optimizing performance, backend logic, coding, software architecture",Bachelor,0,None,desktop application,Software Engineer
+"market research, roadmapping, communication, scrum","product strategy, leading teams, business growth, user experience",Bachelor,2,Certified,user research,Product Manager
+"java, python, algorithms","optimizing performance, coding, software architecture",Master,8,None,scalable system,Software Engineer
+"css, javascript, node.js","frontend development, building websites",PhD,8,None,portfolio website,Web Developer
+"analytics, roadmapping, scrum, agile, market research","product strategy, leading teams, business growth",PhD,9,Certified,product launch,Product Manager
+"machine learning, statistics, nlp, deep learning, pandas, numpy, sql, python","building models, analyzing data",PhD,6,Certified,sentiment analysis,Data Scientist
+"adobe xd, user research, sketch, wireframing, figma, prototyping","user testing, user interface, visual design",Self-Taught,10,Certified,website redesign,UX Designer
+"prototyping, figma, user research, wireframing, adobe xd, sketch","visual design, design capability, user interface",Master,3,Certified,website redesign,UX Designer
+"sql, nlp, pandas","solving complex problems, building models",PhD,0,In Progress,sentiment analysis,Data Scientist
+"pandas, deep learning, nlp, sql, numpy, python, statistics","ai research, solving complex problems",Master,0,None,image classification,Data Scientist
+"communication, scrum, market research, analytics, roadmapping","leading teams, user experience",PhD,5,None,user research,Product Manager
+"adobe xd, figma, prototyping","visual design, user testing, design capability, user interface",Master,5,In Progress,website redesign,UX Designer
+"databases, html, node.js, api","backend systems, frontend development",Self-Taught,4,In Progress,chat application,Web Developer
+"wireframing, prototyping, figma, sketch, adobe xd","user testing, user interface, design capability, visual design",Self-Taught,1,Certified,website redesign,UX Designer
+"nlp, pandas, python","solving complex problems, building models",Master,8,Certified,customer churn prediction,Data Scientist
+"analytics, communication, scrum, market research","business growth, leading teams",Bachelor,9,In Progress,product launch,Product Manager
+"agile, market research, roadmapping","leading teams, product strategy, user experience",Self-Taught,8,Certified,product launch,Product Manager
+"wireframing, prototyping, adobe xd, user research, sketch","design capability, user interface, visual design",Master,10,None,user flow diagram,UX Designer
+"node.js, html, react, javascript, css","backend systems, building websites, frontend development, ui design",PhD,3,In Progress,e-commerce site,Web Developer
+"sql, deep learning, machine learning, python","building models, analyzing data",PhD,7,In Progress,customer churn prediction,Data Scientist
+"data structures, java, algorithms, python, c++, system design","backend logic, coding",Master,1,None,scalable system,Software Engineer
+"java, python, data structures, git, c++","software architecture, backend logic",Master,4,Certified,desktop application,Software Engineer
+"python, c++, system design","software architecture, coding, optimizing performance, backend logic",PhD,1,None,desktop application,Software Engineer
+"communication, scrum, agile, roadmapping, market research","user experience, product strategy, leading teams, business growth",Bachelor,6,In Progress,user research,Product Manager
+"system design, git, algorithms","optimizing performance, coding, software architecture, backend logic",PhD,10,None,algorithm visualizer,Software Engineer
+"market research, agile, roadmapping, scrum, communication","user experience, business growth, leading teams, product strategy",Master,4,Certified,user research,Product Manager
+"user research, wireframing, sketch, adobe xd, figma","user interface, design capability, visual design",PhD,0,Certified,mobile app design,UX Designer
+"analytics, communication, roadmapping, market research","user experience, business growth",Self-Taught,1,None,market analysis,Product Manager
+"nlp, deep learning, pandas, statistics, numpy, sql","building models, solving complex problems",Bachelor,4,None,image classification,Data Scientist
+"sketch, adobe xd, figma, user research","user interface, design capability",Self-Taught,8,Certified,website redesign,UX Designer
+"wireframing, figma, prototyping, user research, adobe xd, sketch","user interface, visual design, design capability",PhD,4,None,website redesign,UX Designer
+"data structures, git, java, system design, c++, algorithms, python","backend logic, software architecture, optimizing performance",PhD,0,Certified,algorithm visualizer,Software Engineer
+"market research, analytics, scrum, communication","business growth, user experience, product strategy",Master,0,In Progress,user research,Product Manager
+"market research, agile, roadmapping, communication","business growth, product strategy, user experience, leading teams",Self-Taught,9,In Progress,user research,Product Manager
+"wireframing, prototyping, sketch, adobe xd, user research, figma","user interface, visual design, design capability",PhD,2,In Progress,user flow diagram,UX Designer
+"scrum, market research, analytics, communication, roadmapping, agile","leading teams, business growth, product strategy, user experience",Self-Taught,6,Certified,user research,Product Manager
+"statistics, numpy, deep learning","solving complex problems, ai research, building models, analyzing data",Bachelor,10,Certified,image classification,Data Scientist
+"algorithms, git, data structures, system design, python, java, c++","backend logic, software architecture, coding, optimizing performance",Master,5,None,algorithm visualizer,Software Engineer
+"figma, adobe xd, user research, sketch","user testing, design capability, user interface",PhD,0,Certified,website redesign,UX Designer
+"python, git, c++, java, algorithms, system design","coding, backend logic, software architecture, optimizing performance",Self-Taught,7,None,scalable system,Software Engineer
+"pandas, nlp, numpy, python","building models, analyzing data",Master,1,In Progress,customer churn prediction,Data Scientist
+"machine learning, pandas, nlp, python","ai research, building models, solving complex problems",Self-Taught,7,None,customer churn prediction,Data Scientist
+"pandas, machine learning, python, nlp, deep learning","solving complex problems, ai research, building models",Bachelor,0,In Progress,customer churn prediction,Data Scientist
+"node.js, api, html, javascript, css","ui design, frontend development",Master,8,Certified,e-commerce site,Web Developer
+"node.js, api, javascript, react","building websites, frontend development, ui design",Master,10,Certified,portfolio website,Web Developer
+"nlp, machine learning, numpy, statistics, python, pandas, deep learning, sql","building models, ai research",Bachelor,1,None,sentiment analysis,Data Scientist
+"python, c++, data structures","software architecture, optimizing performance",PhD,9,In Progress,desktop application,Software Engineer
+"statistics, numpy, deep learning, pandas, python, sql","ai research, solving complex problems",PhD,0,None,customer churn prediction,Data Scientist
+"nlp, sql, pandas, deep learning, statistics, machine learning","solving complex problems, ai research, building models",Bachelor,9,In Progress,customer churn prediction,Data Scientist
+"agile, scrum, market research","product strategy, leading teams, business growth",Self-Taught,7,Certified,product launch,Product Manager
+"deep learning, machine learning, nlp, pandas","analyzing data, solving complex problems, building models",Self-Taught,2,None,image classification,Data Scientist
+"css, databases, node.js, html, javascript","ui design, backend systems",Self-Taught,9,In Progress,chat application,Web Developer
+"api, react, javascript, css","backend systems, frontend development, ui design",Master,4,None,chat application,Web Developer
+"data structures, git, system design, java","coding, optimizing performance, backend logic",Bachelor,8,Certified,desktop application,Software Engineer
+"nlp, numpy, pandas, sql","solving complex problems, ai research",Master,8,None,customer churn prediction,Data Scientist
+"data structures, python, algorithms","backend logic, coding, optimizing performance",Bachelor,10,In Progress,algorithm visualizer,Software Engineer
+"git, data structures, system design, java, algorithms, python, c++","optimizing performance, backend logic, software architecture",Bachelor,5,None,scalable system,Software Engineer
+"user research, figma, wireframing, adobe xd, prototyping","visual design, user testing, design capability",Self-Taught,6,In Progress,website redesign,UX Designer
+"analytics, scrum, market research","user experience, leading teams, business growth, product strategy",PhD,0,None,market analysis,Product Manager
+"statistics, machine learning, nlp, sql, python, deep learning, numpy","ai research, analyzing data",PhD,2,In Progress,customer churn prediction,Data Scientist
+"prototyping, wireframing, figma, user research","user interface, visual design",Master,9,In Progress,website redesign,UX Designer
+"adobe xd, prototyping, user research, sketch, wireframing","design capability, user interface, user testing",Self-Taught,4,Certified,user flow diagram,UX Designer
+"user research, figma, adobe xd, sketch","user testing, user interface, visual design",PhD,9,In Progress,user flow diagram,UX Designer
+"databases, javascript, api, css, react, node.js","frontend development, ui design",Master,10,Certified,chat application,Web Developer
+"python, nlp, deep learning, sql, pandas, numpy, machine learning","building models, analyzing data",Self-Taught,9,In Progress,image classification,Data Scientist
+"wireframing, prototyping, sketch, adobe xd, figma","user interface, design capability, user testing, visual design",Self-Taught,5,In Progress,mobile app design,UX Designer
+"analytics, agile, market research, scrum, roadmapping","user experience, product strategy",Bachelor,10,Certified,market analysis,Product Manager
+"agile, roadmapping, scrum, market research, communication, analytics","leading teams, product strategy",Master,4,Certified,market analysis,Product Manager
+"python, numpy, machine learning, nlp, sql, deep learning, pandas","ai research, solving complex problems, analyzing data",PhD,1,Certified,image classification,Data Scientist
+"algorithms, python, git, data structures","backend logic, coding, optimizing performance",PhD,0,In Progress,algorithm visualizer,Software Engineer
+"agile, scrum, roadmapping, analytics","user experience, business growth, product strategy, leading teams",PhD,9,None,user research,Product Manager
+"user research, prototyping, figma","design capability, user testing, visual design",PhD,9,Certified,user flow diagram,UX Designer
+"api, javascript, databases","frontend development, ui design, building websites",Self-Taught,10,Certified,chat application,Web Developer
+"c++, data structures, git, algorithms","backend logic, coding, software architecture, optimizing performance",Bachelor,4,Certified,algorithm visualizer,Software Engineer
+"figma, sketch, prototyping, user research","user testing, design capability, visual design",Self-Taught,3,Certified,website redesign,UX Designer
+"prototyping, adobe xd, wireframing, user research, figma","user testing, visual design, user interface, design capability",Self-Taught,2,Certified,user flow diagram,UX Designer
+"nlp, numpy, python, machine learning, pandas","analyzing data, ai research, building models, solving complex problems",Bachelor,9,In Progress,customer churn prediction,Data Scientist
+"css, javascript, node.js, react, api","frontend development, backend systems, ui design, building websites",Bachelor,0,None,portfolio website,Web Developer
+"adobe xd, prototyping, wireframing, user research, sketch, figma","user interface, visual design, design capability, user testing",Self-Taught,7,In Progress,mobile app design,UX Designer
+"python, sql, machine learning, deep learning, numpy, statistics, nlp, pandas","analyzing data, solving complex problems, building models",Master,9,In Progress,image classification,Data Scientist
+"user research, wireframing, figma, adobe xd, sketch","design capability, visual design, user testing",Self-Taught,4,Certified,mobile app design,UX Designer
+"algorithms, c++, python, system design, git, data structures, java","backend logic, optimizing performance, coding",Master,6,Certified,scalable system,Software Engineer
+"deep learning, nlp, python, pandas, numpy, sql, statistics, machine learning","building models, ai research",Master,4,Certified,sentiment analysis,Data Scientist
+"agile, analytics, scrum, market research, roadmapping, communication","user experience, product strategy",Bachelor,4,None,product launch,Product Manager
+"nlp, numpy, deep learning","building models, ai research, analyzing data",PhD,2,Certified,image classification,Data Scientist
+"communication, scrum, roadmapping, analytics, agile, market research","business growth, product strategy, user experience, leading teams",Master,3,Certified,user research,Product Manager
+"market research, scrum, analytics, roadmapping","business growth, user experience",Master,3,None,product launch,Product Manager
+"adobe xd, prototyping, wireframing, figma","user interface, design capability, user testing, visual design",Master,1,None,website redesign,UX Designer
+"python, algorithms, data structures, java, system design","optimizing performance, backend logic",Bachelor,7,None,algorithm visualizer,Software Engineer
+"html, javascript, css, react, node.js, api","building websites, backend systems",Bachelor,2,None,e-commerce site,Web Developer
+"algorithms, java, c++, python, data structures","optimizing performance, coding",PhD,2,None,desktop application,Software Engineer
+"prototyping, figma, sketch","design capability, visual design",PhD,0,In Progress,website redesign,UX Designer
+"wireframing, sketch, figma, user research, prototyping","user interface, design capability",Bachelor,3,None,user flow diagram,UX Designer
+"adobe xd, prototyping, user research, wireframing","visual design, user interface, design capability, user testing",Self-Taught,4,Certified,website redesign,UX Designer
+"sql, machine learning, pandas, statistics, deep learning, nlp, python, numpy","analyzing data, ai research, solving complex problems",Master,9,In Progress,customer churn prediction,Data Scientist
+"java, python, git","software architecture, backend logic, coding, optimizing performance",PhD,7,None,scalable system,Software Engineer
+"sql, machine learning, deep learning, numpy, nlp, statistics, pandas","ai research, analyzing data, building models",Bachelor,2,In Progress,customer churn prediction,Data Scientist
+"sketch, adobe xd, user research, figma, prototyping, wireframing","user testing, design capability, user interface, visual design",Self-Taught,6,None,user flow diagram,UX Designer
+"market research, roadmapping, agile, analytics, scrum","leading teams, business growth",Master,6,Certified,product launch,Product Manager
+"wireframing, adobe xd, prototyping, user research","user interface, design capability",Self-Taught,9,In Progress,website redesign,UX Designer
+"c++, java, data structures, algorithms, system design, git","coding, optimizing performance",PhD,6,In Progress,desktop application,Software Engineer
+"adobe xd, prototyping, wireframing","design capability, visual design",Self-Taught,10,In Progress,user flow diagram,UX Designer
+"sql, deep learning, numpy, python, machine learning","ai research, analyzing data, building models",Self-Taught,9,Certified,customer churn prediction,Data Scientist
+"roadmapping, market research, analytics, scrum","user experience, leading teams, business growth",Self-Taught,3,None,user research,Product Manager
+"nlp, pandas, sql, numpy, machine learning, python, statistics, deep learning","solving complex problems, analyzing data, ai research",Master,2,Certified,customer churn prediction,Data Scientist
+"adobe xd, wireframing, prototyping","design capability, user interface, visual design, user testing",Self-Taught,8,Certified,mobile app design,UX Designer
+"react, html, javascript, node.js","frontend development, backend systems",Self-Taught,9,None,chat application,Web Developer
+"node.js, react, databases, api, javascript, css, html","frontend development, backend systems, building websites",Master,1,None,chat application,Web Developer
+"databases, javascript, react, node.js, css, api, html","ui design, frontend development, backend systems, building websites",Master,3,In Progress,chat application,Web Developer
+"python, nlp, numpy","ai research, analyzing data, solving complex problems",Master,2,In Progress,sentiment analysis,Data Scientist
+"roadmapping, agile, scrum, market research, communication, analytics","product strategy, business growth",Master,9,In Progress,user research,Product Manager
+"react, node.js, api, databases","frontend development, ui design, building websites, backend systems",Master,6,In Progress,e-commerce site,Web Developer
+"wireframing, prototyping, user research, adobe xd","visual design, design capability, user testing, user interface",Bachelor,10,In Progress,website redesign,UX Designer
+"sketch, figma, adobe xd, wireframing","visual design, user testing, user interface, design capability",PhD,6,Certified,website redesign,UX Designer
+"python, statistics, pandas, nlp, deep learning, machine learning","analyzing data, building models, ai research, solving complex problems",Master,4,Certified,sentiment analysis,Data Scientist
+"wireframing, prototyping, sketch, adobe xd","design capability, visual design",Self-Taught,4,Certified,user flow diagram,UX Designer
+"numpy, nlp, statistics, deep learning","ai research, analyzing data",Bachelor,7,None,sentiment analysis,Data Scientist
+"wireframing, figma, sketch","visual design, design capability, user testing",PhD,6,None,website redesign,UX Designer
+"git, data structures, system design, algorithms","optimizing performance, software architecture, coding, backend logic",Bachelor,3,None,scalable system,Software Engineer
+"node.js, databases, react","ui design, frontend development, building websites",Bachelor,8,Certified,portfolio website,Web Developer
+"scrum, market research, communication","user experience, leading teams, product strategy",Bachelor,3,Certified,market analysis,Product Manager
+"communication, scrum, agile, roadmapping, market research, analytics","business growth, product strategy",PhD,7,None,product launch,Product Manager
+"numpy, sql, nlp","building models, ai research",Self-Taught,1,Certified,sentiment analysis,Data Scientist
+"analytics, agile, scrum, roadmapping","leading teams, user experience",Master,7,In Progress,market analysis,Product Manager
+"node.js, databases, css, react, html, api, javascript","ui design, backend systems, frontend development, building websites",Bachelor,1,Certified,chat application,Web Developer
+"system design, python, data structures, algorithms","coding, backend logic, optimizing performance, software architecture",Self-Taught,9,Certified,scalable system,Software Engineer
+"sketch, adobe xd, figma, wireframing, prototyping","user interface, user testing",Bachelor,9,In Progress,mobile app design,UX Designer
+"figma, adobe xd, user research","user interface, visual design",Self-Taught,1,None,website redesign,UX Designer
+"css, api, javascript","building websites, frontend development",PhD,4,Certified,portfolio website,Web Developer
+"deep learning, statistics, numpy","ai research, analyzing data",PhD,1,In Progress,sentiment analysis,Data Scientist
+"figma, prototyping, sketch","visual design, user testing, design capability",Self-Taught,1,In Progress,mobile app design,UX Designer
+"machine learning, deep learning, python, nlp, statistics, pandas, sql","analyzing data, solving complex problems",Self-Taught,6,Certified,sentiment analysis,Data Scientist
+"user research, adobe xd, sketch, figma, prototyping","user interface, visual design, user testing, design capability",PhD,8,Certified,user flow diagram,UX Designer
+"deep learning, python, nlp, pandas","building models, ai research",PhD,8,Certified,customer churn prediction,Data Scientist
+"api, css, html, databases, javascript","ui design, frontend development, building websites",Master,0,Certified,portfolio website,Web Developer
+"statistics, pandas, machine learning, nlp, python","ai research, building models, solving complex problems",Master,5,Certified,sentiment analysis,Data Scientist
+"user research, sketch, prototyping","user testing, user interface, design capability",Master,2,In Progress,mobile app design,UX Designer
+"algorithms, data structures, python, git, java, c++, system design","software architecture, optimizing performance, backend logic",Bachelor,6,In Progress,desktop application,Software Engineer
+"figma, user research, sketch","design capability, visual design, user interface, user testing",Self-Taught,4,None,website redesign,UX Designer
+"adobe xd, wireframing, figma","design capability, user interface, visual design, user testing",Bachelor,5,Certified,mobile app design,UX Designer
+"algorithms, python, data structures, c++","optimizing performance, coding, backend logic",PhD,4,Certified,desktop application,Software Engineer
+"communication, agile, roadmapping, analytics, scrum, market research","leading teams, product strategy, user experience, business growth",Master,4,In Progress,product launch,Product Manager
+"data structures, system design, c++","coding, backend logic, optimizing performance, software architecture",Master,5,None,desktop application,Software Engineer
+"data structures, algorithms, java, system design, c++","backend logic, software architecture",Bachelor,2,Certified,scalable system,Software Engineer
+"machine learning, numpy, nlp, deep learning, statistics","building models, ai research, analyzing data",PhD,5,None,sentiment analysis,Data Scientist
+"agile, scrum, roadmapping, communication","product strategy, user experience, leading teams, business growth",Bachelor,10,Certified,user research,Product Manager
+"scrum, roadmapping, communication","leading teams, product strategy",Master,8,Certified,user research,Product Manager
+"market research, roadmapping, analytics, agile, communication, scrum","leading teams, product strategy, business growth, user experience",Self-Taught,8,In Progress,product launch,Product Manager
+"sketch, wireframing, user research, prototyping, adobe xd, figma","design capability, user interface, visual design",Bachelor,2,None,mobile app design,UX Designer
+"adobe xd, prototyping, sketch, figma, user research, wireframing","visual design, user interface",PhD,5,In Progress,website redesign,UX Designer
+"sql, python, machine learning, numpy","analyzing data, building models",Bachelor,7,Certified,customer churn prediction,Data Scientist
+"analytics, roadmapping, communication, market research","business growth, leading teams, user experience, product strategy",PhD,2,Certified,product launch,Product Manager
+"node.js, api, javascript, html, css, react, databases","building websites, ui design",Master,3,In Progress,chat application,Web Developer
+"python, sql, machine learning, statistics, numpy, pandas","building models, ai research, analyzing data",PhD,0,In Progress,image classification,Data Scientist
+"statistics, nlp, sql, machine learning","analyzing data, ai research, solving complex problems, building models",PhD,2,Certified,sentiment analysis,Data Scientist
+"node.js, databases, javascript, css, react","building websites, frontend development, backend systems, ui design",Self-Taught,5,In Progress,chat application,Web Developer
+"market research, roadmapping, scrum, agile, analytics","leading teams, user experience, business growth, product strategy",Bachelor,10,Certified,market analysis,Product Manager
+"roadmapping, agile, market research, analytics, communication","user experience, leading teams",Bachelor,2,In Progress,market analysis,Product Manager
+"javascript, node.js, react, html","ui design, backend systems",PhD,10,In Progress,chat application,Web Developer
+"data structures, c++, git, java, algorithms","backend logic, coding",Master,6,In Progress,desktop application,Software Engineer
+"deep learning, statistics, pandas, nlp, machine learning, numpy, sql, python","analyzing data, ai research",Self-Taught,5,In Progress,image classification,Data Scientist
+"javascript, databases, node.js, react, css","backend systems, ui design, frontend development, building websites",Bachelor,8,None,portfolio website,Web Developer
+"communication, analytics, market research, scrum, roadmapping","user experience, business growth",Bachelor,6,Certified,market analysis,Product Manager
+"api, databases, html, react, javascript, css","backend systems, building websites",Self-Taught,8,Certified,e-commerce site,Web Developer
+"sql, statistics, pandas, machine learning, nlp, python, numpy, deep learning","solving complex problems, analyzing data, ai research",PhD,8,Certified,sentiment analysis,Data Scientist
+"data structures, git, java, algorithms","backend logic, optimizing performance",Master,0,None,desktop application,Software Engineer
+"roadmapping, scrum, market research, agile, communication","product strategy, business growth, leading teams, user experience",Self-Taught,8,Certified,user research,Product Manager
+"numpy, pandas, deep learning, statistics, machine learning, sql","analyzing data, building models",Bachelor,1,Certified,image classification,Data Scientist
+"pandas, statistics, machine learning, sql, nlp, deep learning","solving complex problems, analyzing data",PhD,8,Certified,image classification,Data Scientist
+"api, css, javascript","ui design, backend systems, building websites",Master,2,Certified,portfolio website,Web Developer
+"react, api, css","ui design, frontend development, backend systems, building websites",Master,8,In Progress,portfolio website,Web Developer
+"wireframing, sketch, figma, prototyping, adobe xd, user research","user interface, user testing",Self-Taught,5,None,mobile app design,UX Designer
+"statistics, python, pandas, machine learning, numpy, nlp, deep learning","ai research, building models, solving complex problems, analyzing data",PhD,2,Certified,customer churn prediction,Data Scientist
+"adobe xd, figma, wireframing, user research, sketch, prototyping","design capability, user testing, visual design",Master,8,In Progress,mobile app design,UX Designer
+"machine learning, statistics, nlp, deep learning, sql, pandas, python, numpy","building models, analyzing data",PhD,10,None,sentiment analysis,Data Scientist
+"market research, analytics, roadmapping, communication","leading teams, user experience, business growth",Master,6,In Progress,user research,Product Manager
+"java, python, algorithms, git, system design, data structures, c++","software architecture, optimizing performance",Bachelor,10,Certified,scalable system,Software Engineer
+"react, databases, node.js, javascript, css","frontend development, building websites, ui design",PhD,10,None,portfolio website,Web Developer
+"c++, python, git, algorithms, system design, data structures","coding, optimizing performance",PhD,3,In Progress,scalable system,Software Engineer
+"javascript, node.js, databases, css, api, react","ui design, frontend development, backend systems",Bachelor,6,None,e-commerce site,Web Developer
+"communication, market research, analytics, agile, scrum","product strategy, leading teams",Bachelor,1,In Progress,user research,Product Manager
+"pandas, deep learning, statistics, numpy, nlp, python, machine learning","solving complex problems, analyzing data, building models",Bachelor,3,None,customer churn prediction,Data Scientist
+"pandas, machine learning, python","ai research, building models",PhD,5,None,image classification,Data Scientist
+"statistics, sql, deep learning","ai research, solving complex problems",PhD,4,None,image classification,Data Scientist
+"machine learning, numpy, nlp, deep learning, python","ai research, analyzing data, solving complex problems, building models",Master,1,In Progress,customer churn prediction,Data Scientist
+"scrum, communication, analytics","user experience, business growth, leading teams, product strategy",Bachelor,9,In Progress,market analysis,Product Manager
+"css, databases, html, api, react, javascript","frontend development, backend systems, ui design, building websites",Master,10,In Progress,e-commerce site,Web Developer
+"react, databases, node.js, html","ui design, frontend development",Bachelor,0,None,chat application,Web Developer
+"python, algorithms, data structures, system design, git, java","backend logic, software architecture",PhD,7,Certified,desktop application,Software Engineer
+"figma, user research, sketch","design capability, user interface, visual design",Self-Taught,3,Certified,mobile app design,UX Designer
+"python, system design, java, c++, git, algorithms","backend logic, software architecture, optimizing performance, coding",Self-Taught,7,None,scalable system,Software Engineer
+"api, react, javascript","ui design, backend systems, frontend development",Bachelor,6,Certified,e-commerce site,Web Developer
+"data structures, algorithms, c++, java","coding, backend logic, software architecture",Bachelor,10,In Progress,scalable system,Software Engineer
+"css, react, databases, node.js, api, javascript, html","ui design, frontend development",Self-Taught,8,Certified,chat application,Web Developer
+"pandas, deep learning, numpy, machine learning, python, nlp, sql","building models, ai research, solving complex problems",Self-Taught,9,In Progress,image classification,Data Scientist
+"deep learning, statistics, machine learning, sql, pandas, python","analyzing data, ai research, solving complex problems, building models",Self-Taught,5,In Progress,sentiment analysis,Data Scientist
+"market research, agile, roadmapping, analytics, scrum, communication","leading teams, business growth",Self-Taught,1,None,user research,Product Manager
+"python, git, data structures, algorithms","optimizing performance, backend logic, software architecture, coding",Bachelor,1,Certified,desktop application,Software Engineer
+"databases, javascript, react, node.js, css","frontend development, building websites, ui design, backend systems",Bachelor,8,In Progress,chat application,Web Developer
+"api, react, node.js, databases, javascript","backend systems, ui design",Master,4,None,e-commerce site,Web Developer
+"adobe xd, sketch, figma, prototyping, wireframing","design capability, user testing, visual design, user interface",Bachelor,1,Certified,mobile app design,UX Designer
+"java, c++, algorithms, system design, git, python","coding, backend logic, optimizing performance",Self-Taught,0,Certified,scalable system,Software Engineer
+"roadmapping, agile, market research, communication","leading teams, user experience, product strategy, business growth",Self-Taught,1,Certified,user research,Product Manager
+"wireframing, adobe xd, sketch, prototyping","user interface, user testing, design capability, visual design",Bachelor,10,In Progress,website redesign,UX Designer
+"roadmapping, communication, scrum","product strategy, leading teams, business growth, user experience",Self-Taught,10,In Progress,product launch,Product Manager
+"c++, git, algorithms","optimizing performance, backend logic, software architecture",Self-Taught,6,In Progress,scalable system,Software Engineer
+"sql, numpy, statistics, machine learning, pandas","building models, analyzing data, solving complex problems, ai research",Master,8,In Progress,customer churn prediction,Data Scientist
+"numpy, deep learning, sql","analyzing data, solving complex problems",Bachelor,0,In Progress,image classification,Data Scientist
+"system design, python, algorithms","software architecture, coding, backend logic, optimizing performance",Master,7,In Progress,desktop application,Software Engineer
+"statistics, python, numpy, machine learning, deep learning","solving complex problems, analyzing data",PhD,6,In Progress,image classification,Data Scientist
+"scrum, agile, communication, roadmapping, analytics, market research","leading teams, business growth",Self-Taught,5,In Progress,market analysis,Product Manager
+"data structures, java, algorithms, git, system design, c++, python","backend logic, software architecture, optimizing performance",PhD,6,In Progress,scalable system,Software Engineer
+"communication, roadmapping, agile, market research","user experience, leading teams, business growth, product strategy",PhD,6,Certified,product launch,Product Manager
+"nlp, deep learning, pandas, sql","solving complex problems, ai research, analyzing data",Master,2,None,customer churn prediction,Data Scientist
+"css, react, javascript","building websites, backend systems, frontend development",Bachelor,5,None,portfolio website,Web Developer
+"node.js, react, api, css, html, javascript","ui design, backend systems, building websites",Bachelor,9,Certified,chat application,Web Developer
+"css, react, html","backend systems, ui design",Self-Taught,8,Certified,chat application,Web Developer
+"user research, wireframing, adobe xd, figma, prototyping, sketch","design capability, user interface, user testing, visual design",Master,10,In Progress,mobile app design,UX Designer
+"adobe xd, wireframing, prototyping","user testing, user interface, design capability",Master,9,Certified,mobile app design,UX Designer
+"wireframing, figma, prototyping, adobe xd, sketch, user research","user interface, visual design",Self-Taught,10,In Progress,website redesign,UX Designer
+"numpy, python, pandas","building models, analyzing data, ai research",Master,8,Certified,customer churn prediction,Data Scientist
+"nlp, deep learning, pandas, python, statistics, sql, numpy","ai research, analyzing data, building models",Bachelor,4,None,image classification,Data Scientist
+"sketch, user research, adobe xd, figma, prototyping","user interface, design capability, visual design",Master,10,Certified,mobile app design,UX Designer
+"python, nlp, pandas, sql","ai research, building models, analyzing data, solving complex problems",Self-Taught,3,In Progress,sentiment analysis,Data Scientist
+"user research, prototyping, adobe xd","user interface, design capability, visual design",Bachelor,0,Certified,user flow diagram,UX Designer
+"html, api, node.js, react","frontend development, building websites, backend systems",Bachelor,0,Certified,portfolio website,Web Developer
+"statistics, pandas, sql, python, numpy","solving complex problems, ai research, building models",PhD,1,None,image classification,Data Scientist
+"pandas, sql, nlp, statistics, machine learning","solving complex problems, building models",Self-Taught,9,In Progress,sentiment analysis,Data Scientist
+"agile, market research, communication","business growth, user experience, leading teams, product strategy",Self-Taught,8,In Progress,market analysis,Product Manager
+"css, api, node.js, javascript","frontend development, ui design",PhD,2,In Progress,e-commerce site,Web Developer
+"system design, git, python","software architecture, optimizing performance",PhD,4,None,scalable system,Software Engineer
+"communication, agile, analytics, roadmapping","business growth, user experience, leading teams",Master,0,Certified,user research,Product Manager
+"css, databases, javascript, node.js, html, api","frontend development, building websites",Self-Taught,2,Certified,portfolio website,Web Developer
+"python, nlp, numpy, deep learning, pandas, sql","analyzing data, building models, ai research, solving complex problems",Self-Taught,1,None,image classification,Data Scientist
+"css, react, javascript, databases, api","ui design, building websites, frontend development",PhD,8,In Progress,e-commerce site,Web Developer
+"css, javascript, node.js, databases, api, html","ui design, building websites, backend systems, frontend development",Bachelor,10,In Progress,chat application,Web Developer
+"scrum, market research, agile","user experience, business growth, product strategy",Bachelor,1,None,market analysis,Product Manager
+"java, git, system design, c++","backend logic, coding, optimizing performance, software architecture",Master,7,None,algorithm visualizer,Software Engineer
+"machine learning, sql, pandas","solving complex problems, analyzing data",Bachelor,8,None,sentiment analysis,Data Scientist
+"prototyping, user research, figma, adobe xd, wireframing, sketch","visual design, user testing",PhD,5,Certified,mobile app design,UX Designer
+"roadmapping, communication, market research","leading teams, business growth, product strategy",PhD,0,None,product launch,Product Manager
+"roadmapping, market research, analytics","user experience, leading teams, business growth, product strategy",Self-Taught,7,Certified,market analysis,Product Manager
+"adobe xd, wireframing, sketch, user research","design capability, visual design, user interface, user testing",Master,10,None,website redesign,UX Designer
+"numpy, python, machine learning, nlp, sql, pandas, statistics, deep learning","solving complex problems, building models, ai research, analyzing data",Master,1,In Progress,image classification,Data Scientist
+"javascript, html, databases","ui design, building websites, backend systems",PhD,2,None,portfolio website,Web Developer
+"agile, scrum, analytics, communication, roadmapping","user experience, business growth",Self-Taught,4,Certified,user research,Product Manager
+"data structures, git, system design, java, algorithms, c++, python","software architecture, coding, optimizing performance, backend logic",Self-Taught,4,In Progress,scalable system,Software Engineer
+"html, node.js, javascript, react, css","frontend development, backend systems, ui design, building websites",Self-Taught,7,None,portfolio website,Web Developer
+"java, c++, git","optimizing performance, software architecture, coding",Master,4,In Progress,scalable system,Software Engineer
+"statistics, python, machine learning, pandas, numpy, nlp, sql, deep learning","ai research, analyzing data",Self-Taught,2,Certified,image classification,Data Scientist
+"html, css, javascript, databases, react, api, node.js","building websites, frontend development",Bachelor,1,In Progress,chat application,Web Developer
+"python, numpy, machine learning, sql, deep learning","analyzing data, building models, solving complex problems, ai research",Bachelor,3,Certified,customer churn prediction,Data Scientist
+"pandas, sql, nlp, numpy, machine learning, deep learning, python","building models, analyzing data, solving complex problems, ai research",PhD,4,In Progress,sentiment analysis,Data Scientist
+"analytics, communication, agile, scrum, market research","product strategy, business growth, leading teams",PhD,0,None,market analysis,Product Manager
+"api, node.js, react, html","frontend development, backend systems, ui design, building websites",Bachelor,7,None,chat application,Web Developer
+"communication, scrum, market research","leading teams, product strategy, business growth",Master,9,None,product launch,Product Manager
+"statistics, nlp, python, numpy, sql, machine learning, pandas","building models, analyzing data",Master,5,None,sentiment analysis,Data Scientist
+"figma, wireframing, user research, adobe xd, sketch, prototyping","visual design, user interface, user testing",Bachelor,5,Certified,user flow diagram,UX Designer
+"api, html, databases, react, javascript, css","ui design, frontend development, backend systems, building websites",PhD,6,Certified,portfolio website,Web Developer
+"api, javascript, html, react","frontend development, building websites, backend systems, ui design",Master,7,In Progress,chat application,Web Developer
+"databases, html, node.js, api, javascript","building websites, frontend development, ui design, backend systems",Master,8,None,portfolio website,Web Developer
+"statistics, numpy, python, sql, nlp, pandas","analyzing data, building models, solving complex problems",PhD,0,Certified,image classification,Data Scientist
+"python, deep learning, statistics, machine learning, sql","analyzing data, ai research, building models, solving complex problems",PhD,4,In Progress,sentiment analysis,Data Scientist
+"java, system design, algorithms","backend logic, coding, optimizing performance, software architecture",Self-Taught,2,Certified,algorithm visualizer,Software Engineer
+"nlp, machine learning, python, deep learning, sql, numpy","building models, solving complex problems, ai research",Self-Taught,6,None,customer churn prediction,Data Scientist
+"user research, wireframing, adobe xd, sketch, prototyping, figma","visual design, user interface, design capability",Self-Taught,10,In Progress,website redesign,UX Designer
+"machine learning, nlp, pandas, numpy, deep learning","building models, ai research, solving complex problems, analyzing data",Self-Taught,7,In Progress,image classification,Data Scientist
+"python, sql, nlp, machine learning, pandas, statistics","analyzing data, ai research, solving complex problems",Self-Taught,6,Certified,sentiment analysis,Data Scientist
+"analytics, agile, market research","business growth, product strategy",PhD,7,None,market analysis,Product Manager
+"javascript, html, api, css, databases","ui design, building websites, backend systems",Master,8,In Progress,e-commerce site,Web Developer
+"pandas, statistics, machine learning, python, deep learning, numpy, sql","analyzing data, solving complex problems",Bachelor,10,None,customer churn prediction,Data Scientist
+"react, api, html, javascript, css, node.js, databases","backend systems, frontend development, building websites, ui design",Self-Taught,4,None,portfolio website,Web Developer
+"css, node.js, html, react, api","backend systems, ui design, frontend development, building websites",Master,6,In Progress,portfolio website,Web Developer
+"databases, node.js, javascript, react, html","backend systems, frontend development, building websites",Bachelor,3,None,portfolio website,Web Developer
+"javascript, databases, react, css, api, html","building websites, backend systems",PhD,3,None,chat application,Web Developer
+"python, data structures, algorithms, git, java","backend logic, software architecture",Self-Taught,3,None,algorithm visualizer,Software Engineer
+"data structures, python, algorithms, c++, java, system design, git","coding, software architecture",Bachelor,0,None,scalable system,Software Engineer
+"javascript, node.js, css, databases, api, html","building websites, frontend development, ui design, backend systems",Bachelor,9,In Progress,chat application,Web Developer
+"statistics, pandas, machine learning, deep learning","ai research, solving complex problems, building models",Bachelor,5,Certified,image classification,Data Scientist
+"css, javascript, html, react","backend systems, frontend development, building websites",Master,0,None,e-commerce site,Web Developer
+"adobe xd, prototyping, user research","user testing, user interface, design capability",Bachelor,1,None,website redesign,UX Designer
+"javascript, databases, html","frontend development, building websites, backend systems",PhD,5,In Progress,e-commerce site,Web Developer
+"communication, scrum, roadmapping, agile, market research, analytics","user experience, product strategy, business growth",Master,3,In Progress,product launch,Product Manager
+"analytics, roadmapping, agile","product strategy, leading teams, user experience",Master,3,Certified,market analysis,Product Manager
+"prototyping, user research, wireframing, adobe xd, figma","visual design, user testing",PhD,3,None,website redesign,UX Designer
+"numpy, machine learning, nlp, deep learning","solving complex problems, analyzing data",Bachelor,9,Certified,image classification,Data Scientist
+"statistics, sql, pandas, deep learning","ai research, building models, solving complex problems",Bachelor,0,In Progress,sentiment analysis,Data Scientist
+"sketch, figma, prototyping","visual design, design capability",Bachelor,5,In Progress,mobile app design,UX Designer
+"market research, scrum, analytics, roadmapping","product strategy, user experience, business growth",Bachelor,4,None,market analysis,Product Manager
+"roadmapping, scrum, agile, analytics, market research, communication","user experience, product strategy",Master,0,In Progress,market analysis,Product Manager
+"statistics, python, nlp","solving complex problems, ai research, building models",Master,5,In Progress,customer churn prediction,Data Scientist
+"analytics, market research, communication","leading teams, user experience, business growth",Bachelor,8,None,user research,Product Manager
+"adobe xd, figma, user research, sketch, wireframing, prototyping","user interface, user testing, design capability",PhD,7,In Progress,website redesign,UX Designer
+"user research, figma, wireframing, prototyping, adobe xd","user testing, visual design, user interface, design capability",PhD,3,In Progress,user flow diagram,UX Designer
+"c++, system design, algorithms","coding, backend logic",Bachelor,9,Certified,scalable system,Software Engineer
+"css, html, javascript, react, node.js, api","building websites, frontend development",Master,6,None,chat application,Web Developer
+"java, system design, git, data structures","coding, backend logic",PhD,2,Certified,algorithm visualizer,Software Engineer
+"numpy, sql, pandas, deep learning, statistics, python","ai research, building models, solving complex problems, analyzing data",PhD,2,None,customer churn prediction,Data Scientist
+"system design, java, data structures, c++","software architecture, coding",PhD,5,Certified,algorithm visualizer,Software Engineer
+"agile, analytics, market research, communication, scrum","business growth, leading teams, product strategy",Master,0,Certified,product launch,Product Manager
+"sketch, figma, adobe xd, wireframing, user research","design capability, user testing",Self-Taught,8,Certified,website redesign,UX Designer
+"wireframing, adobe xd, figma, user research, prototyping","design capability, user testing",PhD,3,In Progress,user flow diagram,UX Designer
+"machine learning, sql, deep learning, python, statistics","ai research, analyzing data",Master,1,None,sentiment analysis,Data Scientist
+"sketch, adobe xd, figma","user testing, visual design",Master,7,None,mobile app design,UX Designer
+"machine learning, deep learning, sql, numpy, statistics, nlp, pandas","building models, analyzing data, solving complex problems",Master,10,In Progress,sentiment analysis,Data Scientist
+"algorithms, data structures, java, git","coding, optimizing performance, software architecture",Self-Taught,7,Certified,algorithm visualizer,Software Engineer
+"scrum, communication, agile","business growth, user experience",Bachelor,6,In Progress,user research,Product Manager
+"html, databases, api, node.js","building websites, frontend development",Bachelor,6,Certified,chat application,Web Developer
+"data structures, java, c++, system design","optimizing performance, backend logic, coding",PhD,6,In Progress,scalable system,Software Engineer
+"deep learning, machine learning, pandas, numpy, python","analyzing data, building models",Master,5,Certified,customer churn prediction,Data Scientist
+"api, react, javascript, html, css","frontend development, backend systems",Master,5,None,e-commerce site,Web Developer
+"prototyping, figma, wireframing, user research, adobe xd","user testing, user interface, design capability",Self-Taught,4,In Progress,mobile app design,UX Designer
+"sketch, adobe xd, user research, wireframing","design capability, visual design",Self-Taught,6,None,website redesign,UX Designer
+"machine learning, numpy, nlp, statistics, python, deep learning, sql, pandas","building models, ai research, solving complex problems",Bachelor,6,Certified,customer churn prediction,Data Scientist
+"adobe xd, wireframing, prototyping","design capability, user interface, user testing",Self-Taught,2,Certified,user flow diagram,UX Designer
+"deep learning, pandas, python, nlp, machine learning, sql, statistics","building models, solving complex problems",Bachelor,3,None,image classification,Data Scientist
+"api, node.js, css, html, react, databases","building websites, ui design, backend systems, frontend development",Bachelor,4,None,chat application,Web Developer
+"sketch, adobe xd, figma, wireframing","design capability, user testing",Bachelor,5,In Progress,website redesign,UX Designer
+"sql, numpy, pandas, python, nlp, statistics","solving complex problems, ai research",Self-Taught,3,None,image classification,Data Scientist
+"prototyping, sketch, user research","visual design, user testing, user interface, design capability",Self-Taught,5,Certified,mobile app design,UX Designer
+"wireframing, user research, figma, sketch","design capability, visual design",Master,4,Certified,website redesign,UX Designer
+"git, c++, algorithms","coding, optimizing performance, software architecture",Master,0,None,scalable system,Software Engineer
+"system design, git, algorithms, c++","coding, software architecture, optimizing performance, backend logic",PhD,4,None,scalable system,Software Engineer
+"databases, react, node.js, html, api, css","ui design, building websites",PhD,2,None,chat application,Web Developer
+"market research, agile, communication, scrum","business growth, leading teams",Self-Taught,8,Certified,product launch,Product Manager
+"python, numpy, machine learning, pandas, statistics","ai research, building models, analyzing data, solving complex problems",Master,0,None,image classification,Data Scientist
+"system design, c++, git, java","backend logic, coding",Bachelor,9,None,desktop application,Software Engineer
+"sketch, wireframing, adobe xd, prototyping, figma, user research","user interface, visual design, user testing",Master,9,Certified,mobile app design,UX Designer
+"wireframing, user research, adobe xd, sketch","user interface, design capability, user testing, visual design",PhD,8,Certified,mobile app design,UX Designer
+"scrum, market research, roadmapping, communication","product strategy, user experience, leading teams, business growth",Self-Taught,8,In Progress,market analysis,Product Manager
+"sketch, adobe xd, figma, prototyping","user interface, design capability, visual design, user testing",PhD,8,None,user flow diagram,UX Designer
+"pandas, machine learning, nlp","solving complex problems, building models, analyzing data, ai research",PhD,5,None,image classification,Data Scientist
+"agile, scrum, analytics, communication, market research","business growth, user experience, product strategy, leading teams",PhD,5,Certified,product launch,Product Manager
+"java, system design, git","software architecture, optimizing performance",PhD,8,In Progress,algorithm visualizer,Software Engineer
+"system design, data structures, java, algorithms, python, git, c++","coding, software architecture, optimizing performance",Self-Taught,4,In Progress,algorithm visualizer,Software Engineer
+"databases, api, css, javascript, node.js, react, html","building websites, frontend development",Self-Taught,8,None,e-commerce site,Web Developer
+"analytics, market research, roadmapping, agile, scrum, communication","product strategy, leading teams, business growth, user experience",Master,4,In Progress,product launch,Product Manager
+"wireframing, user research, sketch, prototyping, adobe xd","visual design, design capability, user interface, user testing",Master,3,In Progress,website redesign,UX Designer
+"agile, communication, scrum","user experience, product strategy",PhD,8,In Progress,product launch,Product Manager
+"api, javascript, css, html, databases","building websites, backend systems, frontend development",Bachelor,10,Certified,portfolio website,Web Developer
+"javascript, html, databases, css, node.js, react","backend systems, building websites, frontend development",Bachelor,0,None,e-commerce site,Web Developer
+"analytics, market research, scrum, communication","business growth, product strategy, leading teams",Bachelor,6,In Progress,product launch,Product Manager
+"html, css, node.js, databases","building websites, ui design, frontend development",Bachelor,9,In Progress,chat application,Web Developer
+"communication, analytics, agile, scrum, roadmapping, market research","business growth, product strategy, user experience",PhD,4,In Progress,market analysis,Product Manager
+"figma, sketch, adobe xd","design capability, visual design",Bachelor,0,In Progress,user flow diagram,UX Designer
+"c++, java, system design","backend logic, coding, software architecture",Bachelor,6,In Progress,scalable system,Software Engineer
+"agile, communication, scrum, analytics","product strategy, user experience, business growth",Self-Taught,0,None,user research,Product Manager
+"user research, sketch, prototyping, adobe xd, wireframing, figma","visual design, design capability",Self-Taught,9,None,website redesign,UX Designer
+"adobe xd, figma, wireframing, sketch, prototyping","visual design, user interface, design capability, user testing",Master,0,In Progress,user flow diagram,UX Designer
+"roadmapping, agile, market research, scrum","product strategy, leading teams, user experience",Master,10,None,market analysis,Product Manager
+"adobe xd, user research, wireframing, figma","visual design, design capability, user interface",Master,4,In Progress,mobile app design,UX Designer
+"communication, roadmapping, scrum, agile, market research","business growth, user experience",Self-Taught,8,None,product launch,Product Manager
+"javascript, react, api","building websites, ui design, frontend development, backend systems",Bachelor,10,In Progress,e-commerce site,Web Developer
+"statistics, python, sql, machine learning","ai research, solving complex problems",Self-Taught,7,None,sentiment analysis,Data Scientist
+"sketch, adobe xd, user research","user testing, visual design, user interface",PhD,4,Certified,website redesign,UX Designer
+"statistics, sql, deep learning, machine learning","building models, analyzing data, ai research, solving complex problems",Self-Taught,5,In Progress,customer churn prediction,Data Scientist
+"nlp, statistics, python","ai research, building models, analyzing data, solving complex problems",Master,1,Certified,image classification,Data Scientist
+"algorithms, system design, data structures, git, c++, java","software architecture, coding",Self-Taught,4,Certified,scalable system,Software Engineer
+"user research, prototyping, adobe xd, wireframing, sketch, figma","user testing, visual design, design capability",Self-Taught,7,In Progress,website redesign,UX Designer
+"statistics, machine learning, sql, numpy, pandas, python","solving complex problems, building models",Bachelor,7,None,sentiment analysis,Data Scientist
+"figma, wireframing, adobe xd, user research, prototyping, sketch","design capability, user testing, visual design, user interface",Bachelor,4,In Progress,user flow diagram,UX Designer
+"user research, wireframing, adobe xd, prototyping, figma, sketch","user testing, visual design, design capability, user interface",Bachelor,3,In Progress,user flow diagram,UX Designer
+"react, css, javascript, html, databases","ui design, building websites, frontend development",Bachelor,7,In Progress,chat application,Web Developer
+"c++, data structures, algorithms","coding, software architecture, optimizing performance",Master,8,Certified,scalable system,Software Engineer
+"deep learning, machine learning, numpy, pandas, nlp, python, statistics, sql","analyzing data, building models, solving complex problems",Self-Taught,6,Certified,image classification,Data Scientist
+"communication, scrum, analytics, roadmapping","business growth, product strategy, user experience",Master,5,In Progress,market analysis,Product Manager
+"agile, scrum, roadmapping","leading teams, business growth, user experience",Master,4,Certified,product launch,Product Manager
+"c++, java, system design, python, algorithms, git, data structures","optimizing performance, backend logic, software architecture",Bachelor,4,Certified,desktop application,Software Engineer
+"git, python, data structures, java, system design, c++, algorithms","backend logic, coding",Master,5,In Progress,desktop application,Software Engineer
+"git, algorithms, data structures, c++, python","backend logic, coding",PhD,7,Certified,scalable system,Software Engineer
+"css, html, javascript, react","backend systems, frontend development, ui design, building websites",PhD,1,Certified,portfolio website,Web Developer
+"prototyping, user research, sketch, figma, adobe xd, wireframing","user testing, visual design",Self-Taught,2,Certified,user flow diagram,UX Designer
+"sketch, prototyping, adobe xd, wireframing, user research","user testing, user interface",Master,2,In Progress,user flow diagram,UX Designer
+"figma, user research, wireframing","visual design, design capability, user testing, user interface",PhD,3,None,website redesign,UX Designer
+"react, databases, html, node.js, api","frontend development, ui design, backend systems",Master,6,Certified,portfolio website,Web Developer
+"wireframing, user research, sketch","user testing, user interface, visual design, design capability",PhD,4,None,user flow diagram,UX Designer
+"node.js, javascript, databases, html, react, css, api","ui design, frontend development, building websites, backend systems",Master,2,None,portfolio website,Web Developer
+"roadmapping, market research, analytics, communication, agile, scrum","user experience, product strategy",Bachelor,1,In Progress,product launch,Product Manager
+"scrum, roadmapping, communication, market research, analytics","user experience, business growth",Master,8,None,product launch,Product Manager
+"scrum, analytics, roadmapping, market research, agile","user experience, product strategy, leading teams, business growth",Bachelor,10,None,user research,Product Manager
+"wireframing, figma, sketch, prototyping","visual design, user testing",Bachelor,4,Certified,user flow diagram,UX Designer
+"html, node.js, databases, css, api, javascript","backend systems, ui design, frontend development, building websites",Master,3,None,portfolio website,Web Developer
+"c++, java, algorithms, data structures, git","software architecture, backend logic",Master,7,Certified,algorithm visualizer,Software Engineer
+"wireframing, prototyping, adobe xd, figma","design capability, user interface, visual design",PhD,9,In Progress,user flow diagram,UX Designer
+"javascript, databases, api, css","frontend development, building websites",Self-Taught,4,None,e-commerce site,Web Developer
+"user research, sketch, prototyping","user testing, visual design, design capability",Bachelor,8,In Progress,user flow diagram,UX Designer
+"wireframing, sketch, prototyping, user research, figma, adobe xd","user interface, visual design",Master,9,Certified,mobile app design,UX Designer
+"agile, communication, analytics, market research","product strategy, leading teams, business growth",Master,7,Certified,market analysis,Product Manager
+"react, databases, html, node.js, api, javascript, css","ui design, frontend development, backend systems, building websites",Self-Taught,7,None,e-commerce site,Web Developer
+"python, c++, java, algorithms, git","optimizing performance, coding, backend logic, software architecture",Self-Taught,4,In Progress,desktop application,Software Engineer
+"databases, api, html, react, node.js, css, javascript","building websites, frontend development",PhD,8,In Progress,chat application,Web Developer
+"api, html, react, databases","ui design, frontend development, building websites, backend systems",Bachelor,6,In Progress,chat application,Web Developer
+"market research, agile, roadmapping","user experience, business growth, product strategy, leading teams",Bachelor,9,In Progress,market analysis,Product Manager
+"numpy, statistics, nlp, machine learning, deep learning, pandas","building models, analyzing data, ai research",Master,8,In Progress,sentiment analysis,Data Scientist
+"html, react, css, databases, node.js, api, javascript","frontend development, ui design, building websites, backend systems",Master,2,In Progress,e-commerce site,Web Developer
+"python, nlp, machine learning","analyzing data, ai research, building models",PhD,2,None,image classification,Data Scientist
+"data structures, algorithms, git, java, c++, system design, python","backend logic, coding, optimizing performance",PhD,4,In Progress,scalable system,Software Engineer
+"deep learning, statistics, sql","solving complex problems, analyzing data, building models",Bachelor,4,None,customer churn prediction,Data Scientist
+"prototyping, wireframing, figma, sketch, adobe xd","user interface, visual design, design capability",Self-Taught,3,In Progress,user flow diagram,UX Designer
+"java, c++, system design","software architecture, backend logic",Master,8,In Progress,scalable system,Software Engineer
+"javascript, css, html, node.js, react","frontend development, backend systems",Self-Taught,8,Certified,e-commerce site,Web Developer
+"sketch, adobe xd, wireframing","design capability, user interface",Self-Taught,1,Certified,mobile app design,UX Designer
+"html, databases, api, node.js, css","frontend development, building websites",PhD,10,Certified,e-commerce site,Web Developer
+"user research, prototyping, adobe xd","user interface, design capability",Bachelor,3,In Progress,mobile app design,UX Designer
+"machine learning, python, numpy, pandas","analyzing data, building models, solving complex problems",Bachelor,3,In Progress,image classification,Data Scientist
+"roadmapping, analytics, scrum","product strategy, business growth",Self-Taught,6,Certified,market analysis,Product Manager
+"c++, system design, python","software architecture, backend logic, coding, optimizing performance",PhD,1,In Progress,algorithm visualizer,Software Engineer
+"figma, sketch, adobe xd, user research, prototyping, wireframing","user testing, visual design, user interface, design capability",Self-Taught,9,In Progress,mobile app design,UX Designer
+"python, data structures, c++, java, git, algorithms","software architecture, backend logic, optimizing performance, coding",Bachelor,1,Certified,algorithm visualizer,Software Engineer
+"system design, algorithms, c++, data structures, git","coding, optimizing performance, backend logic",PhD,4,Certified,algorithm visualizer,Software Engineer
+"git, python, data structures, algorithms, java, system design, c++","software architecture, optimizing performance, coding, backend logic",PhD,8,In Progress,scalable system,Software Engineer
+"sketch, prototyping, figma, wireframing","design capability, user testing, visual design, user interface",PhD,6,Certified,website redesign,UX Designer
+"statistics, pandas, machine learning","ai research, solving complex problems",PhD,5,Certified,customer churn prediction,Data Scientist
+"python, pandas, machine learning, numpy, sql, nlp, deep learning, statistics","solving complex problems, analyzing data, ai research, building models",Self-Taught,2,In Progress,image classification,Data Scientist
+"git, data structures, c++, python, algorithms, java, system design","coding, software architecture",Self-Taught,5,Certified,desktop application,Software Engineer
+"algorithms, git, c++, python, data structures","software architecture, optimizing performance",PhD,2,None,algorithm visualizer,Software Engineer
+"agile, analytics, market research, roadmapping, communication, scrum","leading teams, product strategy",PhD,4,Certified,product launch,Product Manager
+"analytics, agile, roadmapping, market research, communication, scrum","user experience, business growth",Master,5,None,user research,Product Manager
+"algorithms, c++, data structures, python","optimizing performance, backend logic, coding",Bachelor,1,Certified,scalable system,Software Engineer
+"java, python, system design, git, algorithms","optimizing performance, coding, software architecture",Bachelor,3,None,scalable system,Software Engineer
+"figma, user research, adobe xd","user interface, visual design",Bachelor,6,In Progress,mobile app design,UX Designer
+"figma, wireframing, sketch, prototyping","user interface, user testing, design capability",PhD,10,Certified,mobile app design,UX Designer
+"sql, nlp, statistics, pandas, numpy, python, deep learning, machine learning","ai research, analyzing data, solving complex problems",Bachelor,8,Certified,sentiment analysis,Data Scientist
+"algorithms, system design, c++, data structures, python, java, git","backend logic, software architecture",Self-Taught,2,Certified,algorithm visualizer,Software Engineer
+"c++, java, python, git, algorithms, data structures, system design","software architecture, backend logic, coding",PhD,8,In Progress,scalable system,Software Engineer
+"java, algorithms, data structures, git, python, system design, c++","backend logic, optimizing performance, coding, software architecture",Master,10,Certified,desktop application,Software Engineer
+"sketch, figma, wireframing, adobe xd, user research","design capability, user interface, user testing",Self-Taught,5,Certified,user flow diagram,UX Designer
+"databases, react, css","building websites, backend systems",Self-Taught,8,In Progress,e-commerce site,Web Developer
+"sketch, wireframing, prototyping, figma, user research, adobe xd","visual design, user testing, user interface",PhD,4,In Progress,mobile app design,UX Designer
+"adobe xd, wireframing, user research, sketch, figma","user testing, visual design, user interface, design capability",Master,5,Certified,mobile app design,UX Designer
+"algorithms, git, python, c++, system design","backend logic, coding, optimizing performance, software architecture",Master,9,Certified,desktop application,Software Engineer
+"wireframing, user research, sketch","user interface, user testing, design capability, visual design",Master,7,Certified,user flow diagram,UX Designer
+"figma, prototyping, sketch, user research","user testing, design capability, visual design, user interface",Bachelor,10,Certified,user flow diagram,UX Designer
+"figma, wireframing, adobe xd, sketch, user research","visual design, user interface, user testing, design capability",Bachelor,1,Certified,mobile app design,UX Designer
+"wireframing, sketch, adobe xd, user research, prototyping, figma","user testing, user interface, design capability, visual design",Self-Taught,5,In Progress,user flow diagram,UX Designer
+"roadmapping, agile, communication","product strategy, leading teams, business growth, user experience",Self-Taught,10,Certified,product launch,Product Manager
+"react, api, html","backend systems, building websites, frontend development",Self-Taught,4,Certified,portfolio website,Web Developer
+"python, java, git","optimizing performance, backend logic, software architecture, coding",PhD,10,Certified,scalable system,Software Engineer
+"user research, sketch, adobe xd, figma, wireframing, prototyping","visual design, user interface",Self-Taught,2,Certified,user flow diagram,UX Designer
+"sql, machine learning, numpy","analyzing data, ai research, solving complex problems",Master,10,In Progress,sentiment analysis,Data Scientist
+"numpy, pandas, machine learning, sql, statistics, nlp, deep learning","solving complex problems, analyzing data, ai research, building models",PhD,9,Certified,sentiment analysis,Data Scientist
+"sql, python, nlp, statistics, machine learning, numpy","solving complex problems, building models, ai research, analyzing data",Self-Taught,6,Certified,image classification,Data Scientist
+"python, sql, statistics, pandas, machine learning, deep learning, nlp, numpy","analyzing data, ai research, solving complex problems",Bachelor,7,In Progress,customer churn prediction,Data Scientist
+"market research, analytics, agile, communication","user experience, leading teams, business growth",PhD,4,Certified,market analysis,Product Manager
+"wireframing, figma, user research, sketch, prototyping","user testing, design capability, user interface",Bachelor,1,None,website redesign,UX Designer
+"agile, scrum, market research, communication","leading teams, business growth, user experience, product strategy",Self-Taught,9,None,user research,Product Manager
+"databases, node.js, css, react, javascript","backend systems, frontend development",Master,10,Certified,e-commerce site,Web Developer
+"agile, scrum, market research","leading teams, business growth, product strategy",Master,7,Certified,product launch,Product Manager
+"analytics, roadmapping, communication, market research, agile, scrum","user experience, business growth",PhD,7,Certified,market analysis,Product Manager
+"market research, communication, roadmapping","leading teams, product strategy, business growth, user experience",Self-Taught,5,Certified,market analysis,Product Manager
+"scrum, analytics, roadmapping, agile, market research, communication","product strategy, user experience",Bachelor,6,In Progress,user research,Product Manager
+"statistics, machine learning, numpy, nlp, pandas, deep learning, python, sql","building models, solving complex problems",Bachelor,7,Certified,customer churn prediction,Data Scientist
+"css, react, api, html, databases, node.js, javascript","building websites, frontend development, backend systems, ui design",Self-Taught,7,In Progress,e-commerce site,Web Developer
+"java, python, system design","software architecture, optimizing performance",Master,8,Certified,scalable system,Software Engineer
+"node.js, api, react, css, javascript, databases, html","frontend development, ui design, backend systems",Self-Taught,8,In Progress,chat application,Web Developer
+"analytics, market research, roadmapping, communication","product strategy, business growth, user experience",PhD,6,In Progress,product launch,Product Manager
+"css, javascript, databases, node.js, react","frontend development, ui design",PhD,3,Certified,portfolio website,Web Developer
+"css, html, javascript, api, databases, node.js","backend systems, frontend development, building websites",PhD,7,In Progress,e-commerce site,Web Developer
+"nlp, sql, machine learning, pandas, deep learning, numpy","ai research, building models",PhD,0,Certified,customer churn prediction,Data Scientist
+"pandas, numpy, machine learning, nlp, statistics, deep learning","ai research, solving complex problems",Bachelor,6,In Progress,sentiment analysis,Data Scientist
+"java, system design, data structures, algorithms, python","coding, software architecture",Self-Taught,3,None,desktop application,Software Engineer
+"c++, python, data structures, java","software architecture, coding",Master,8,In Progress,desktop application,Software Engineer
+"node.js, react, api","building websites, frontend development, backend systems",Master,4,None,portfolio website,Web Developer
+"adobe xd, wireframing, prototyping, user research, figma","design capability, user testing, user interface, visual design",Self-Taught,3,In Progress,website redesign,UX Designer
+"react, html, databases, api, css, node.js","building websites, backend systems",PhD,0,In Progress,portfolio website,Web Developer
+"css, node.js, databases, api, react, javascript, html","building websites, backend systems, frontend development, ui design",Self-Taught,10,In Progress,chat application,Web Developer
+"deep learning, pandas, statistics, machine learning, nlp, sql","building models, solving complex problems, analyzing data, ai research",PhD,10,None,sentiment analysis,Data Scientist
+"prototyping, sketch, wireframing","user testing, user interface, visual design, design capability",Bachelor,6,Certified,mobile app design,UX Designer
+"analytics, market research, agile","product strategy, leading teams",Master,7,None,user research,Product Manager
+"java, c++, python, system design, algorithms, git, data structures","backend logic, coding, optimizing performance",Bachelor,5,In Progress,scalable system,Software Engineer
+"api, databases, html, javascript","building websites, ui design, frontend development, backend systems",Bachelor,2,Certified,chat application,Web Developer
+"analytics, roadmapping, market research, agile, communication","leading teams, business growth, user experience",Self-Taught,0,Certified,user research,Product Manager
+"prototyping, sketch, figma","visual design, user testing, user interface, design capability",Self-Taught,6,Certified,website redesign,UX Designer
+"css, react, databases, node.js, html","ui design, backend systems",PhD,8,Certified,chat application,Web Developer
+"system design, python, c++, git, data structures","software architecture, coding, optimizing performance, backend logic",PhD,3,Certified,algorithm visualizer,Software Engineer
+"user research, sketch, adobe xd","design capability, user interface, user testing",PhD,1,None,website redesign,UX Designer
+"algorithms, python, git","optimizing performance, backend logic, coding, software architecture",Master,8,In Progress,scalable system,Software Engineer
+"deep learning, python, numpy, statistics, sql, pandas, nlp, machine learning","analyzing data, solving complex problems",Master,9,Certified,sentiment analysis,Data Scientist
+"numpy, sql, pandas","building models, analyzing data, solving complex problems",Master,4,In Progress,image classification,Data Scientist
+"api, react, databases, html, javascript, css, node.js","frontend development, building websites",Bachelor,0,None,portfolio website,Web Developer
+"node.js, javascript, react","backend systems, ui design, building websites",Bachelor,3,In Progress,e-commerce site,Web Developer
+"analytics, agile, scrum, roadmapping, communication","user experience, product strategy, leading teams",Master,6,None,product launch,Product Manager
+"sketch, figma, wireframing, prototyping, adobe xd","design capability, visual design, user interface",PhD,9,None,mobile app design,UX Designer
+"sketch, prototyping, adobe xd, wireframing, user research","user interface, user testing",Self-Taught,10,In Progress,website redesign,UX Designer
+"nlp, machine learning, pandas, numpy, sql","ai research, building models",Self-Taught,0,In Progress,customer churn prediction,Data Scientist
+"adobe xd, user research, figma, wireframing, sketch","visual design, user testing, user interface",PhD,2,In Progress,website redesign,UX Designer
+"deep learning, machine learning, statistics, sql, pandas","solving complex problems, analyzing data",PhD,4,In Progress,sentiment analysis,Data Scientist
+"analytics, scrum, market research","business growth, product strategy, user experience, leading teams",Bachelor,4,In Progress,market analysis,Product Manager
+"roadmapping, communication, agile, market research","user experience, product strategy, business growth, leading teams",Bachelor,1,Certified,user research,Product Manager
+"c++, python, system design, java, git, algorithms, data structures","coding, optimizing performance, software architecture",Master,6,Certified,algorithm visualizer,Software Engineer
+"pandas, python, numpy, deep learning, statistics, nlp, sql","solving complex problems, building models",Master,4,None,customer churn prediction,Data Scientist
+"user research, figma, prototyping","design capability, visual design, user interface, user testing",Master,6,Certified,user flow diagram,UX Designer
+"python, data structures, c++, algorithms","optimizing performance, backend logic, software architecture, coding",Bachelor,1,None,desktop application,Software Engineer
+"data structures, python, c++, system design, git, java, algorithms","optimizing performance, coding, software architecture, backend logic",Self-Taught,8,None,scalable system,Software Engineer
+"analytics, agile, communication, roadmapping, scrum","business growth, product strategy",PhD,0,None,market analysis,Product Manager
+"system design, java, data structures, c++, algorithms, git, python","software architecture, backend logic, coding, optimizing performance",Self-Taught,1,In Progress,desktop application,Software Engineer
+"javascript, databases, api, html, react, node.js","backend systems, building websites, ui design, frontend development",Bachelor,4,Certified,portfolio website,Web Developer
+"python, nlp, sql, numpy, pandas, statistics, deep learning","solving complex problems, analyzing data, ai research",PhD,7,Certified,image classification,Data Scientist
+"pandas, numpy, deep learning, machine learning, statistics, python, sql, nlp","analyzing data, solving complex problems",Bachelor,0,In Progress,sentiment analysis,Data Scientist
+"agile, analytics, scrum, communication, market research, roadmapping","user experience, business growth, product strategy",Self-Taught,6,Certified,user research,Product Manager
+"system design, data structures, git, c++, python, java, algorithms","software architecture, backend logic, coding",Bachelor,7,None,scalable system,Software Engineer
+"databases, node.js, api, html","backend systems, frontend development, ui design, building websites",PhD,1,Certified,e-commerce site,Web Developer
+"java, c++, python","backend logic, optimizing performance, coding",Self-Taught,10,Certified,algorithm visualizer,Software Engineer
+"api, node.js, react, html, css, javascript, databases","building websites, ui design, frontend development, backend systems",Self-Taught,4,In Progress,chat application,Web Developer
+"system design, data structures, java, c++, algorithms","coding, software architecture, optimizing performance, backend logic",Self-Taught,4,Certified,desktop application,Software Engineer
+"scrum, roadmapping, communication, agile, market research, analytics","product strategy, user experience, business growth",Master,4,None,product launch,Product Manager
+"system design, data structures, c++, algorithms, python","optimizing performance, software architecture",Master,5,None,desktop application,Software Engineer
+"user research, prototyping, sketch, figma, wireframing, adobe xd","user testing, user interface, design capability",Master,9,In Progress,user flow diagram,UX Designer
+"roadmapping, analytics, agile, scrum","product strategy, business growth, user experience, leading teams",Master,8,In Progress,user research,Product Manager
+"user research, wireframing, prototyping","visual design, user testing, user interface",PhD,1,In Progress,website redesign,UX Designer
+"figma, wireframing, user research, prototyping, sketch","user interface, visual design, design capability, user testing",Self-Taught,9,Certified,mobile app design,UX Designer
+"analytics, roadmapping, communication, agile, market research","leading teams, product strategy, user experience",Self-Taught,8,In Progress,user research,Product Manager
+"c++, git, java, algorithms, system design, data structures","optimizing performance, coding, backend logic",Master,7,In Progress,desktop application,Software Engineer
+"python, machine learning, statistics, nlp, sql, numpy","ai research, analyzing data, building models, solving complex problems",Master,1,None,sentiment analysis,Data Scientist
+"css, react, node.js, javascript, api, databases","backend systems, frontend development, building websites, ui design",Master,8,Certified,e-commerce site,Web Developer
+"api, react, html, node.js, databases, css, javascript","frontend development, backend systems, ui design, building websites",Master,10,Certified,chat application,Web Developer
+"prototyping, wireframing, figma, adobe xd","design capability, user testing, user interface",Master,1,In Progress,user flow diagram,UX Designer
+"agile, analytics, communication, scrum, market research, roadmapping","product strategy, leading teams, user experience, business growth",PhD,1,In Progress,market analysis,Product Manager
+"statistics, python, deep learning, pandas, sql, nlp, machine learning, numpy","building models, analyzing data",Master,5,Certified,customer churn prediction,Data Scientist
+"python, java, algorithms","coding, optimizing performance, backend logic",Master,4,Certified,desktop application,Software Engineer
+"statistics, python, deep learning, pandas, nlp, numpy, sql, machine learning","building models, ai research, analyzing data, solving complex problems",Bachelor,8,Certified,sentiment analysis,Data Scientist
+"javascript, css, databases, react, html, api, node.js","ui design, backend systems, building websites",PhD,10,Certified,portfolio website,Web Developer
+"c++, java, system design, git, data structures","software architecture, coding, backend logic, optimizing performance",Self-Taught,2,None,desktop application,Software Engineer
+"java, system design, data structures, git, c++","backend logic, software architecture",Bachelor,9,Certified,desktop application,Software Engineer
+"figma, user research, adobe xd, prototyping, wireframing, sketch","design capability, user testing, visual design",PhD,2,None,user flow diagram,UX Designer
+"algorithms, data structures, python, java","backend logic, software architecture",Bachelor,10,In Progress,desktop application,Software Engineer
+"analytics, communication, scrum, agile, market research, roadmapping","product strategy, business growth, leading teams",Bachelor,4,None,market analysis,Product Manager
+"numpy, machine learning, statistics, pandas, sql, deep learning","building models, analyzing data, solving complex problems, ai research",PhD,0,None,sentiment analysis,Data Scientist
+"system design, c++, git, java","backend logic, software architecture",PhD,1,In Progress,algorithm visualizer,Software Engineer
+"java, algorithms, system design, c++","optimizing performance, backend logic",PhD,7,Certified,algorithm visualizer,Software Engineer
+"java, python, c++","software architecture, backend logic, coding, optimizing performance",Bachelor,7,Certified,algorithm visualizer,Software Engineer
+"git, algorithms, data structures, system design","backend logic, software architecture",Master,5,None,desktop application,Software Engineer
+"wireframing, figma, sketch","user interface, visual design",Bachelor,6,Certified,mobile app design,UX Designer
+"css, api, html","ui design, backend systems",PhD,0,None,chat application,Web Developer
+"python, sql, machine learning, nlp, numpy, deep learning, statistics","solving complex problems, building models, analyzing data, ai research",Bachelor,8,None,sentiment analysis,Data Scientist
+"git, java, c++, data structures, algorithms, python, system design","software architecture, optimizing performance, backend logic",Master,7,Certified,desktop application,Software Engineer
+"machine learning, sql, nlp, statistics","analyzing data, solving complex problems, ai research, building models",Bachelor,7,Certified,image classification,Data Scientist
+"html, databases, api, react","frontend development, backend systems, ui design",Bachelor,10,In Progress,chat application,Web Developer
+"system design, c++, git, python, algorithms","coding, software architecture",Self-Taught,1,None,algorithm visualizer,Software Engineer
+"node.js, css, html, databases, api","backend systems, ui design",Self-Taught,5,Certified,chat application,Web Developer
+"python, git, data structures, java, algorithms, c++","backend logic, software architecture",Self-Taught,4,None,desktop application,Software Engineer
+"figma, adobe xd, prototyping, user research","visual design, design capability, user interface",PhD,0,In Progress,user flow diagram,UX Designer
+"roadmapping, agile, communication, analytics, scrum","product strategy, leading teams",Self-Taught,2,Certified,market analysis,Product Manager
+"databases, node.js, api, html, css, react","building websites, ui design",PhD,3,Certified,portfolio website,Web Developer
+"react, javascript, html, databases","ui design, building websites, backend systems",Self-Taught,6,None,e-commerce site,Web Developer
+"agile, scrum, analytics, communication, roadmapping","business growth, product strategy",Master,2,Certified,market analysis,Product Manager
+"prototyping, sketch, figma, user research","visual design, user interface, design capability, user testing",Self-Taught,3,None,website redesign,UX Designer
+"node.js, javascript, react, html, css, api, databases","ui design, building websites, frontend development, backend systems",Master,3,In Progress,e-commerce site,Web Developer
+"algorithms, c++, data structures, java, git","backend logic, optimizing performance, coding",Master,10,Certified,desktop application,Software Engineer
+"communication, agile, scrum, roadmapping","product strategy, user experience",Bachelor,0,In Progress,product launch,Product Manager
+"analytics, market research, agile, communication, scrum, roadmapping","user experience, business growth",Self-Taught,3,None,product launch,Product Manager
+"user research, wireframing, figma","visual design, design capability",Master,9,In Progress,mobile app design,UX Designer
+"numpy, python, deep learning, machine learning, pandas, statistics, nlp","analyzing data, ai research, building models",PhD,8,In Progress,sentiment analysis,Data Scientist
+"market research, roadmapping, scrum","leading teams, product strategy, business growth",Self-Taught,10,None,market analysis,Product Manager
+"algorithms, c++, java, data structures, git","coding, optimizing performance",PhD,4,Certified,algorithm visualizer,Software Engineer
+"html, javascript, node.js","building websites, backend systems, frontend development, ui design",PhD,6,None,e-commerce site,Web Developer
+"user research, prototyping, wireframing","user testing, user interface, design capability",PhD,8,Certified,mobile app design,UX Designer
+"java, data structures, git","backend logic, optimizing performance, software architecture, coding",Master,5,In Progress,desktop application,Software Engineer
+"pandas, machine learning, numpy","ai research, solving complex problems",PhD,4,None,customer churn prediction,Data Scientist
+"databases, node.js, css","backend systems, frontend development, building websites",Master,6,In Progress,chat application,Web Developer
+"analytics, agile, roadmapping, market research, communication, scrum","user experience, product strategy",Master,7,In Progress,product launch,Product Manager
+"react, html, databases","ui design, building websites",Master,1,Certified,chat application,Web Developer
+"numpy, pandas, deep learning, machine learning, python, statistics, sql","analyzing data, solving complex problems, building models, ai research",Master,7,Certified,image classification,Data Scientist
+"data structures, system design, git, java, c++, python, algorithms","optimizing performance, coding, backend logic, software architecture",Bachelor,0,None,desktop application,Software Engineer
+"python, pandas, numpy, statistics","building models, solving complex problems",Master,5,In Progress,sentiment analysis,Data Scientist
+"java, git, c++, python, algorithms, data structures, system design","optimizing performance, backend logic, software architecture",Self-Taught,0,In Progress,scalable system,Software Engineer
+"react, api, databases, css, javascript, html, node.js","building websites, backend systems, frontend development",PhD,9,In Progress,e-commerce site,Web Developer
+"sketch, wireframing, figma, adobe xd","user interface, design capability, user testing",Self-Taught,1,None,mobile app design,UX Designer
+"data structures, java, git, algorithms, system design, python","coding, backend logic",PhD,5,In Progress,algorithm visualizer,Software Engineer
+"analytics, agile, scrum, market research, communication, roadmapping","product strategy, leading teams, business growth, user experience",Master,6,Certified,user research,Product Manager
+"user research, adobe xd, wireframing","user interface, visual design, user testing, design capability",Bachelor,0,Certified,mobile app design,UX Designer
+"scrum, agile, analytics, market research","user experience, business growth, product strategy, leading teams",PhD,9,None,market analysis,Product Manager
+"javascript, node.js, api, react, css, databases","backend systems, frontend development",PhD,6,None,chat application,Web Developer
+"user research, prototyping, wireframing","visual design, design capability, user interface",Self-Taught,7,In Progress,user flow diagram,UX Designer
+"python, pandas, machine learning, deep learning, nlp, numpy, statistics, sql","analyzing data, building models, solving complex problems",Self-Taught,4,Certified,customer churn prediction,Data Scientist
+"css, html, databases, javascript, react, api, node.js","backend systems, frontend development, building websites",Self-Taught,6,Certified,chat application,Web Developer
+"python, java, system design, data structures, c++","software architecture, backend logic, coding",PhD,3,In Progress,algorithm visualizer,Software Engineer
+"c++, system design, algorithms","software architecture, backend logic",PhD,0,In Progress,scalable system,Software Engineer
+"java, data structures, system design","coding, software architecture, backend logic",Master,1,Certified,desktop application,Software Engineer
+"sql, deep learning, pandas, numpy, python, machine learning, nlp","ai research, building models",Bachelor,8,Certified,image classification,Data Scientist
+"databases, css, html, react, api","building websites, frontend development, ui design, backend systems",Self-Taught,1,None,chat application,Web Developer
+"deep learning, statistics, sql, python, pandas, numpy, machine learning","analyzing data, solving complex problems, building models",Master,5,Certified,image classification,Data Scientist
+"agile, scrum, roadmapping","leading teams, business growth, user experience, product strategy",Self-Taught,6,None,product launch,Product Manager
+"sql, machine learning, numpy, statistics, python","solving complex problems, analyzing data, building models, ai research",Bachelor,0,None,sentiment analysis,Data Scientist
+"deep learning, numpy, machine learning, statistics","solving complex problems, building models",Self-Taught,4,In Progress,customer churn prediction,Data Scientist
+"sql, numpy, machine learning, deep learning, statistics, python, pandas","ai research, analyzing data, solving complex problems, building models",Self-Taught,0,Certified,sentiment analysis,Data Scientist
+"market research, roadmapping, communication","leading teams, product strategy, user experience, business growth",Master,7,In Progress,user research,Product Manager
+"java, data structures, c++, system design, algorithms, git, python","software architecture, optimizing performance",Self-Taught,5,In Progress,desktop application,Software Engineer
+"c++, system design, algorithms, python","coding, software architecture, optimizing performance",Self-Taught,10,Certified,algorithm visualizer,Software Engineer
+"figma, adobe xd, sketch, wireframing, user research, prototyping","design capability, user testing, user interface",Bachelor,9,In Progress,website redesign,UX Designer
+"agile, analytics, roadmapping, communication, scrum","user experience, business growth",Bachelor,4,None,user research,Product Manager
+"deep learning, numpy, pandas, python, statistics, nlp","solving complex problems, building models",Master,10,None,customer churn prediction,Data Scientist
+"react, api, html, databases, node.js, javascript","frontend development, backend systems, ui design",Self-Taught,4,In Progress,chat application,Web Developer
+"scrum, agile, roadmapping, communication, market research, analytics","business growth, user experience, leading teams, product strategy",Bachelor,5,Certified,product launch,Product Manager
+"wireframing, sketch, prototyping, user research, adobe xd, figma","user interface, design capability, visual design",Master,9,Certified,website redesign,UX Designer
+"css, databases, javascript, react","ui design, building websites, frontend development",Bachelor,0,In Progress,e-commerce site,Web Developer
+"wireframing, adobe xd, figma","visual design, design capability, user interface",Self-Taught,2,In Progress,mobile app design,UX Designer
+"python, statistics, sql","building models, analyzing data, ai research, solving complex problems",Master,0,In Progress,sentiment analysis,Data Scientist
+"nlp, python, sql, numpy, statistics, machine learning, deep learning, pandas","analyzing data, ai research, building models, solving complex problems",Master,0,In Progress,customer churn prediction,Data Scientist
+"sql, nlp, pandas, machine learning, statistics, deep learning, numpy, python","building models, analyzing data",Bachelor,3,In Progress,sentiment analysis,Data Scientist
+"sketch, adobe xd, figma, prototyping, wireframing","user testing, design capability",Master,3,In Progress,mobile app design,UX Designer
+"communication, agile, market research, scrum","user experience, business growth, leading teams",PhD,0,In Progress,user research,Product Manager
+"html, databases, api, css, node.js","backend systems, frontend development",Bachelor,7,In Progress,chat application,Web Developer
+"sql, python, deep learning, nlp","ai research, building models",Master,7,Certified,sentiment analysis,Data Scientist
+"roadmapping, market research, scrum, analytics","product strategy, leading teams, business growth",PhD,9,None,market analysis,Product Manager
+"wireframing, prototyping, sketch, user research","design capability, user interface, user testing, visual design",Self-Taught,0,Certified,user flow diagram,UX Designer
+"api, node.js, react, javascript, css","frontend development, backend systems, building websites, ui design",Self-Taught,8,None,portfolio website,Web Developer
+"data structures, system design, java, git, algorithms, c++","optimizing performance, coding, software architecture, backend logic",PhD,8,Certified,scalable system,Software Engineer
+"adobe xd, user research, sketch, prototyping","design capability, visual design",PhD,0,None,website redesign,UX Designer
+"node.js, html, javascript","ui design, frontend development, backend systems",Master,10,Certified,e-commerce site,Web Developer
+"sketch, figma, prototyping","user testing, visual design",Self-Taught,2,None,website redesign,UX Designer
+"git, python, system design, c++","coding, software architecture, backend logic",Self-Taught,7,None,desktop application,Software Engineer
+"analytics, communication, agile, market research, scrum","user experience, leading teams, business growth, product strategy",Self-Taught,0,None,market analysis,Product Manager
+"react, api, databases, css, javascript","ui design, frontend development",PhD,0,Certified,chat application,Web Developer
+"javascript, api, databases, css, react, html, node.js","frontend development, backend systems",Self-Taught,1,Certified,e-commerce site,Web Developer
+"scrum, market research, communication, roadmapping, analytics, agile","user experience, product strategy, business growth",PhD,2,In Progress,product launch,Product Manager
+"sql, numpy, statistics","ai research, solving complex problems, building models, analyzing data",Master,8,Certified,image classification,Data Scientist
+"deep learning, sql, statistics","ai research, building models, solving complex problems, analyzing data",Bachelor,0,None,sentiment analysis,Data Scientist
+"user research, prototyping, adobe xd","user interface, design capability",Master,1,None,website redesign,UX Designer
+"nlp, statistics, pandas, deep learning, python, machine learning, numpy","analyzing data, building models, ai research, solving complex problems",Master,3,None,sentiment analysis,Data Scientist
+"roadmapping, analytics, scrum, agile","user experience, business growth",Self-Taught,4,In Progress,market analysis,Product Manager
+"css, react, javascript, api, html","frontend development, building websites, ui design, backend systems",Master,2,Certified,e-commerce site,Web Developer
+"figma, prototyping, wireframing, adobe xd, sketch, user research","visual design, user testing",PhD,2,None,mobile app design,UX Designer
+"user research, wireframing, sketch","user interface, visual design, design capability, user testing",Self-Taught,0,None,website redesign,UX Designer
+"sketch, adobe xd, user research","design capability, user interface, user testing",PhD,4,None,website redesign,UX Designer
+"agile, market research, communication, scrum, analytics, roadmapping","business growth, leading teams, product strategy, user experience",Bachelor,3,Certified,market analysis,Product Manager
+"scrum, roadmapping, analytics, market research","product strategy, user experience, leading teams",Self-Taught,5,In Progress,market analysis,Product Manager
+"user research, adobe xd, prototyping, sketch, wireframing","visual design, design capability, user interface, user testing",Master,4,None,user flow diagram,UX Designer
+"sql, machine learning, deep learning","analyzing data, building models, solving complex problems, ai research",Master,6,None,customer churn prediction,Data Scientist
+"java, git, system design","coding, backend logic, software architecture, optimizing performance",Bachelor,10,In Progress,scalable system,Software Engineer
+"prototyping, figma, adobe xd","user interface, visual design, design capability, user testing",Self-Taught,0,In Progress,website redesign,UX Designer
+"python, system design, algorithms, c++, java","coding, backend logic, optimizing performance, software architecture",PhD,5,None,desktop application,Software Engineer
+"c++, algorithms, java, python","backend logic, optimizing performance",Bachelor,1,None,scalable system,Software Engineer
+"machine learning, statistics, sql, numpy, pandas, nlp, deep learning, python","ai research, analyzing data",PhD,10,None,image classification,Data Scientist
+"nlp, python, pandas, deep learning, sql","analyzing data, building models",Master,8,In Progress,sentiment analysis,Data Scientist
+"javascript, api, react, databases, css, node.js","frontend development, ui design",PhD,3,None,e-commerce site,Web Developer
+"python, system design, git, algorithms, java, c++, data structures","optimizing performance, software architecture, backend logic",PhD,10,None,scalable system,Software Engineer
+"javascript, react, css, api, node.js, html, databases","frontend development, building websites, backend systems",Bachelor,9,None,portfolio website,Web Developer
+"html, javascript, databases, api, css, node.js, react","frontend development, building websites, ui design",Bachelor,8,In Progress,e-commerce site,Web Developer
+"agile, scrum, analytics, roadmapping, market research, communication","user experience, leading teams",Bachelor,0,In Progress,product launch,Product Manager
+"html, node.js, react","backend systems, building websites, ui design",Bachelor,8,In Progress,e-commerce site,Web Developer
+"statistics, sql, pandas","ai research, solving complex problems, analyzing data, building models",Self-Taught,10,Certified,sentiment analysis,Data Scientist
+"databases, api, css, node.js, html, javascript","ui design, frontend development, backend systems",Bachelor,2,In Progress,chat application,Web Developer
+"html, css, databases, javascript","building websites, frontend development, ui design",Master,6,Certified,chat application,Web Developer
+"html, api, node.js, react","backend systems, ui design, building websites, frontend development",PhD,9,None,portfolio website,Web Developer
+"scrum, communication, market research, analytics, roadmapping","user experience, leading teams, business growth",PhD,0,In Progress,user research,Product Manager
+"scrum, analytics, agile","leading teams, business growth, user experience",PhD,7,In Progress,user research,Product Manager
+"c++, system design, data structures","optimizing performance, backend logic",PhD,8,Certified,algorithm visualizer,Software Engineer
+"api, react, html","ui design, backend systems, frontend development",Bachelor,1,Certified,portfolio website,Web Developer
+"roadmapping, analytics, agile","business growth, leading teams, product strategy",PhD,3,None,product launch,Product Manager
+"numpy, statistics, sql, pandas, deep learning","building models, ai research",Bachelor,2,In Progress,image classification,Data Scientist
+"pandas, numpy, python, machine learning, sql","analyzing data, ai research, solving complex problems, building models",Self-Taught,7,In Progress,customer churn prediction,Data Scientist
+"analytics, roadmapping, scrum, communication, agile","user experience, product strategy, business growth",Self-Taught,9,In Progress,product launch,Product Manager
+"communication, scrum, agile","product strategy, user experience",Self-Taught,1,Certified,product launch,Product Manager
+"figma, user research, prototyping","visual design, user interface",Bachelor,3,Certified,website redesign,UX Designer
+"scrum, communication, agile, analytics, roadmapping","leading teams, user experience, product strategy",PhD,4,None,product launch,Product Manager
+"numpy, sql, machine learning, deep learning, statistics, python, pandas","solving complex problems, analyzing data, ai research, building models",PhD,6,None,customer churn prediction,Data Scientist
+"system design, algorithms, java, python, git, c++","backend logic, coding",Self-Taught,4,Certified,algorithm visualizer,Software Engineer
+"adobe xd, wireframing, sketch","design capability, user testing, visual design, user interface",PhD,8,None,user flow diagram,UX Designer
+"javascript, node.js, databases, react, api, html","frontend development, building websites, ui design",PhD,6,In Progress,e-commerce site,Web Developer
+"c++, system design, python","coding, backend logic, optimizing performance, software architecture",PhD,8,None,desktop application,Software Engineer
+"numpy, sql, deep learning, statistics, machine learning","ai research, analyzing data, building models",Self-Taught,5,Certified,sentiment analysis,Data Scientist
+"adobe xd, prototyping, figma, user research","visual design, user interface, user testing",Self-Taught,9,In Progress,user flow diagram,UX Designer
+"java, python, data structures, c++","coding, backend logic",PhD,4,In Progress,desktop application,Software Engineer
+"prototyping, user research, wireframing, figma","design capability, visual design",Bachelor,1,In Progress,website redesign,UX Designer
+"communication, scrum, roadmapping, analytics","product strategy, leading teams, business growth, user experience",Bachelor,3,In Progress,market analysis,Product Manager
+"sql, numpy, deep learning, nlp, python, pandas, statistics","building models, ai research, analyzing data",Self-Taught,3,Certified,image classification,Data Scientist
+"pandas, statistics, machine learning, sql, deep learning, nlp, python, numpy","solving complex problems, analyzing data",Self-Taught,7,Certified,customer churn prediction,Data Scientist
+"pandas, numpy, sql, python","analyzing data, ai research, building models, solving complex problems",Bachelor,6,Certified,sentiment analysis,Data Scientist
+"databases, css, html, javascript, api, node.js, react","ui design, frontend development, backend systems, building websites",Master,10,Certified,chat application,Web Developer
+"user research, wireframing, sketch, adobe xd, figma, prototyping","design capability, user testing, visual design",Bachelor,4,Certified,website redesign,UX Designer
+"api, node.js, html, css, databases, react, javascript","frontend development, backend systems",Bachelor,9,In Progress,portfolio website,Web Developer
+"react, javascript, node.js, css","building websites, backend systems, frontend development, ui design",PhD,10,Certified,e-commerce site,Web Developer
+"api, html, databases, node.js, react","ui design, backend systems, building websites, frontend development",Bachelor,5,None,chat application,Web Developer
+"agile, roadmapping, market research, scrum","user experience, business growth, leading teams, product strategy",Bachelor,4,In Progress,market analysis,Product Manager
+"sql, nlp, python, deep learning","building models, analyzing data",PhD,5,None,sentiment analysis,Data Scientist
+"data structures, git, java","optimizing performance, backend logic",Bachelor,10,Certified,scalable system,Software Engineer
+"wireframing, sketch, adobe xd, figma","user interface, user testing, design capability, visual design",PhD,2,Certified,user flow diagram,UX Designer
+"java, python, data structures, c++, algorithms, system design","backend logic, coding, optimizing performance, software architecture",Self-Taught,10,Certified,desktop application,Software Engineer
+"agile, scrum, market research","product strategy, business growth, leading teams",PhD,6,In Progress,market analysis,Product Manager
+"node.js, databases, api, html","ui design, building websites, frontend development",PhD,10,In Progress,chat application,Web Developer
+"nlp, statistics, pandas, numpy, sql","building models, ai research, analyzing data",Bachelor,8,Certified,image classification,Data Scientist
+"node.js, react, databases, javascript","ui design, building websites, backend systems",PhD,2,In Progress,e-commerce site,Web Developer
+"pandas, numpy, nlp, deep learning, statistics, sql, machine learning","ai research, building models",Self-Taught,7,None,sentiment analysis,Data Scientist
+"javascript, react, node.js, databases, api","ui design, building websites, frontend development, backend systems",Master,9,In Progress,portfolio website,Web Developer
+"user research, prototyping, sketch, figma, wireframing, adobe xd","user interface, visual design, design capability",PhD,6,None,mobile app design,UX Designer
+"sql, machine learning, pandas, deep learning","solving complex problems, building models, analyzing data, ai research",Master,4,Certified,image classification,Data Scientist
+"sketch, prototyping, user research, adobe xd, figma","user interface, visual design, design capability",PhD,4,None,website redesign,UX Designer
+"sketch, prototyping, adobe xd, wireframing, user research","user testing, design capability, visual design",Master,1,In Progress,user flow diagram,UX Designer
+"system design, java, git","optimizing performance, coding, backend logic",Bachelor,5,Certified,algorithm visualizer,Software Engineer
+"market research, analytics, communication","leading teams, business growth, user experience, product strategy",Bachelor,4,None,user research,Product Manager
+"html, css, react, api, databases, javascript, node.js","ui design, frontend development, backend systems",Master,0,None,portfolio website,Web Developer
+"agile, roadmapping, market research, analytics","user experience, business growth",Master,4,None,user research,Product Manager
+"data structures, algorithms, system design, java","optimizing performance, backend logic, coding",PhD,5,Certified,desktop application,Software Engineer
+"market research, analytics, roadmapping, scrum, agile, communication","user experience, business growth, product strategy",Self-Taught,4,Certified,user research,Product Manager
+"api, react, javascript, html, css, databases","ui design, building websites",Self-Taught,1,Certified,e-commerce site,Web Developer
+"communication, agile, scrum","business growth, product strategy",Bachelor,3,In Progress,market analysis,Product Manager
+"node.js, html, api, databases","building websites, backend systems",Master,8,None,e-commerce site,Web Developer
+"market research, scrum, communication, roadmapping, agile","product strategy, business growth, user experience, leading teams",Master,4,In Progress,product launch,Product Manager
+"system design, data structures, c++, algorithms, git","software architecture, optimizing performance, coding, backend logic",Bachelor,9,In Progress,algorithm visualizer,Software Engineer
+"api, css, javascript, react","building websites, frontend development, backend systems",Master,3,In Progress,chat application,Web Developer
+"agile, communication, scrum","business growth, product strategy",Bachelor,2,None,market analysis,Product Manager
+"adobe xd, wireframing, sketch, user research","user interface, user testing, design capability, visual design",Self-Taught,2,In Progress,website redesign,UX Designer
+"javascript, api, css, node.js","building websites, ui design, backend systems, frontend development",PhD,7,None,portfolio website,Web Developer
+"roadmapping, market research, agile, scrum","user experience, product strategy, business growth, leading teams",Master,4,None,market analysis,Product Manager
+"algorithms, c++, git, system design, python","backend logic, optimizing performance",Self-Taught,8,None,desktop application,Software Engineer
+"sketch, user research, wireframing, figma, adobe xd, prototyping","visual design, user interface, design capability",Master,2,Certified,website redesign,UX Designer
+"scrum, market research, analytics","user experience, business growth, leading teams",Self-Taught,1,In Progress,product launch,Product Manager
+"javascript, html, node.js","backend systems, ui design",PhD,8,Certified,portfolio website,Web Developer
+"git, system design, data structures, c++, java, python, algorithms","optimizing performance, backend logic, software architecture",Master,2,None,algorithm visualizer,Software Engineer
+"html, react, javascript, databases, node.js, api","backend systems, ui design, building websites",Bachelor,3,None,e-commerce site,Web Developer
+"databases, css, html, node.js, api","frontend development, ui design",Bachelor,7,In Progress,chat application,Web Developer
+"deep learning, pandas, numpy, machine learning","solving complex problems, ai research, analyzing data",Master,7,In Progress,sentiment analysis,Data Scientist
+"nlp, pandas, python","analyzing data, building models, solving complex problems",Self-Taught,1,None,image classification,Data Scientist
+"c++, python, git, java, algorithms, system design, data structures","coding, optimizing performance, software architecture, backend logic",Self-Taught,4,Certified,algorithm visualizer,Software Engineer
+"figma, wireframing, user research, adobe xd, prototyping","visual design, user interface, user testing",PhD,4,None,website redesign,UX Designer
+"git, c++, algorithms, python, java, data structures","software architecture, coding",PhD,7,Certified,scalable system,Software Engineer
+"sketch, wireframing, figma","user interface, user testing",PhD,3,In Progress,mobile app design,UX Designer
+"roadmapping, agile, communication, market research, analytics","user experience, business growth",Bachelor,1,Certified,market analysis,Product Manager
+"java, python, git, c++, system design","optimizing performance, coding, software architecture",Self-Taught,10,Certified,desktop application,Software Engineer
+"user research, sketch, prototyping, adobe xd, wireframing, figma","visual design, user testing, user interface",Master,7,None,user flow diagram,UX Designer
+"data structures, git, java","optimizing performance, software architecture, backend logic, coding",PhD,6,In Progress,algorithm visualizer,Software Engineer
+"sql, machine learning, numpy, python, pandas, nlp","building models, ai research, analyzing data",Bachelor,6,In Progress,image classification,Data Scientist
+"javascript, react, api, html, databases","ui design, backend systems, frontend development",Master,0,Certified,e-commerce site,Web Developer
+"pandas, nlp, machine learning, python, sql, deep learning, numpy","building models, ai research",Bachelor,10,Certified,image classification,Data Scientist
+"sql, python, pandas","solving complex problems, analyzing data, building models",Bachelor,10,None,sentiment analysis,Data Scientist
+"api, css, react, javascript, html","backend systems, building websites, frontend development",Self-Taught,3,None,chat application,Web Developer
+"user research, wireframing, figma, sketch, adobe xd","user interface, design capability, user testing, visual design",Bachelor,3,In Progress,user flow diagram,UX Designer
+"node.js, react, javascript, databases","backend systems, building websites",Master,4,None,portfolio website,Web Developer
+"node.js, css, databases, javascript","frontend development, backend systems, building websites",Master,0,Certified,e-commerce site,Web Developer
+"git, system design, c++, data structures, algorithms","coding, backend logic, software architecture, optimizing performance",PhD,5,Certified,desktop application,Software Engineer
+"wireframing, figma, adobe xd","user testing, design capability, visual design",Self-Taught,8,Certified,website redesign,UX Designer
+"deep learning, statistics, python, numpy, machine learning, pandas, nlp","solving complex problems, analyzing data, ai research",Master,10,None,image classification,Data Scientist
+"python, machine learning, statistics, pandas, deep learning","ai research, building models, analyzing data",Master,4,None,image classification,Data Scientist
+"market research, agile, communication, scrum","product strategy, user experience",Master,3,None,product launch,Product Manager
+"user research, prototyping, adobe xd","design capability, visual design, user testing",Bachelor,3,None,mobile app design,UX Designer
+"api, html, react, javascript","frontend development, backend systems",Bachelor,5,Certified,chat application,Web Developer
+"adobe xd, user research, prototyping, figma","user interface, design capability, visual design, user testing",Bachelor,2,Certified,website redesign,UX Designer
+"deep learning, sql, nlp, pandas","ai research, analyzing data, solving complex problems",Self-Taught,4,Certified,sentiment analysis,Data Scientist
+"system design, python, algorithms","optimizing performance, coding",Bachelor,9,None,algorithm visualizer,Software Engineer
+"algorithms, system design, java, git, c++","optimizing performance, backend logic, coding",Bachelor,10,Certified,desktop application,Software Engineer
+"css, html, api, node.js, databases, javascript, react","backend systems, ui design, building websites",PhD,7,Certified,chat application,Web Developer
+"nlp, machine learning, pandas, numpy","solving complex problems, ai research",Bachelor,10,Certified,image classification,Data Scientist
+"data structures, git, system design","backend logic, optimizing performance, coding",Master,1,None,desktop application,Software Engineer
+"system design, algorithms, git, data structures","optimizing performance, backend logic",PhD,10,None,scalable system,Software Engineer
+"databases, node.js, api, react, css, javascript","frontend development, backend systems",PhD,0,In Progress,portfolio website,Web Developer
+"algorithms, python, java, git, data structures, c++","optimizing performance, backend logic, coding, software architecture",PhD,8,In Progress,algorithm visualizer,Software Engineer
+"api, html, react, databases","ui design, backend systems, building websites, frontend development",Master,7,In Progress,e-commerce site,Web Developer
+"git, java, c++, algorithms, data structures, system design","coding, optimizing performance, backend logic, software architecture",Bachelor,0,In Progress,algorithm visualizer,Software Engineer
+"adobe xd, figma, prototyping, wireframing, user research","visual design, design capability, user interface, user testing",PhD,0,None,website redesign,UX Designer
+"user research, wireframing, adobe xd, sketch","user interface, visual design, design capability, user testing",Master,7,In Progress,website redesign,UX Designer
+"algorithms, java, git","optimizing performance, coding, backend logic",PhD,2,In Progress,algorithm visualizer,Software Engineer
+"pandas, deep learning, nlp","analyzing data, building models",Bachelor,2,None,sentiment analysis,Data Scientist
+"algorithms, java, c++, python, git, system design, data structures","backend logic, coding, optimizing performance",Master,4,In Progress,algorithm visualizer,Software Engineer
+"prototyping, adobe xd, user research, figma, wireframing","visual design, user testing",Self-Taught,9,None,website redesign,UX Designer
+"user research, wireframing, adobe xd, sketch, figma, prototyping","design capability, user testing, visual design",Self-Taught,7,In Progress,website redesign,UX Designer
+"machine learning, deep learning, nlp","ai research, solving complex problems, building models, analyzing data",PhD,10,None,sentiment analysis,Data Scientist
+"sketch, adobe xd, prototyping, figma","design capability, user testing, user interface, visual design",Master,9,Certified,mobile app design,UX Designer
+"communication, market research, agile, scrum, analytics, roadmapping","product strategy, leading teams, user experience, business growth",Self-Taught,0,None,market analysis,Product Manager
+"data structures, algorithms, c++, git, java","backend logic, optimizing performance, software architecture",Bachelor,10,None,scalable system,Software Engineer
+"api, node.js, react","backend systems, frontend development",Master,3,None,e-commerce site,Web Developer
+"java, data structures, git, algorithms, python, c++","software architecture, coding",Bachelor,10,Certified,desktop application,Software Engineer
+"nlp, python, machine learning, sql","ai research, building models",Bachelor,6,In Progress,customer churn prediction,Data Scientist
+"wireframing, figma, sketch, user research","design capability, user interface, user testing",Self-Taught,8,In Progress,user flow diagram,UX Designer
+"machine learning, deep learning, pandas","ai research, solving complex problems, analyzing data, building models",Self-Taught,8,In Progress,sentiment analysis,Data Scientist
+"javascript, react, html, node.js","ui design, building websites",PhD,2,In Progress,e-commerce site,Web Developer
+"css, javascript, api, databases, node.js, react","backend systems, frontend development, ui design",Master,3,None,chat application,Web Developer
+"analytics, scrum, market research","user experience, business growth",Master,7,None,user research,Product Manager
+"api, react, html, javascript, databases, css, node.js","backend systems, building websites",Self-Taught,0,None,portfolio website,Web Developer
+"roadmapping, scrum, agile, market research","leading teams, product strategy, user experience",Master,8,In Progress,market analysis,Product Manager
+"roadmapping, communication, analytics, scrum","business growth, product strategy, leading teams, user experience",PhD,5,In Progress,user research,Product Manager
+"sketch, prototyping, adobe xd, figma","design capability, visual design",Self-Taught,3,In Progress,website redesign,UX Designer
+"user research, sketch, adobe xd","design capability, visual design",Master,0,None,website redesign,UX Designer
+"user research, prototyping, figma, wireframing, adobe xd, sketch","user testing, design capability",Self-Taught,8,None,website redesign,UX Designer
+"java, git, algorithms, data structures, system design, c++, python","coding, optimizing performance",PhD,6,None,algorithm visualizer,Software Engineer
+"user research, figma, prototyping, wireframing, adobe xd","user testing, visual design, design capability, user interface",Self-Taught,3,None,user flow diagram,UX Designer
+"machine learning, deep learning, numpy","building models, solving complex problems, ai research",Bachelor,5,In Progress,image classification,Data Scientist
+"machine learning, sql, statistics","building models, solving complex problems, analyzing data, ai research",PhD,10,None,image classification,Data Scientist
+"sketch, adobe xd, figma, user research, prototyping, wireframing","design capability, user testing, user interface",Self-Taught,9,In Progress,user flow diagram,UX Designer
+"databases, react, css, javascript, api, node.js, html","backend systems, frontend development, building websites, ui design",Bachelor,1,Certified,e-commerce site,Web Developer
+"statistics, sql, python, numpy, machine learning, nlp","ai research, building models, solving complex problems",Bachelor,1,Certified,image classification,Data Scientist
+"pandas, nlp, numpy","solving complex problems, building models, ai research, analyzing data",Self-Taught,5,None,image classification,Data Scientist
+"system design, git, algorithms, data structures, java","coding, optimizing performance, software architecture, backend logic",PhD,0,Certified,scalable system,Software Engineer
+"analytics, agile, communication, market research, roadmapping","user experience, leading teams",Master,7,Certified,market analysis,Product Manager
+"api, javascript, html, css","frontend development, building websites, ui design",Self-Taught,0,None,portfolio website,Web Developer
+"sketch, adobe xd, prototyping","user testing, user interface",Bachelor,5,None,website redesign,UX Designer
+"wireframing, adobe xd, figma","visual design, user interface, user testing, design capability",Bachelor,2,In Progress,mobile app design,UX Designer
+"market research, analytics, scrum, communication, roadmapping","user experience, leading teams, product strategy",Bachelor,6,In Progress,user research,Product Manager
+"figma, prototyping, sketch, wireframing, user research","design capability, user interface, user testing",Bachelor,7,None,mobile app design,UX Designer
+"node.js, css, api, databases, react, html","building websites, backend systems",Master,9,Certified,e-commerce site,Web Developer
+"html, databases, node.js, api, css, react, javascript","ui design, frontend development, backend systems, building websites",Master,10,In Progress,e-commerce site,Web Developer
+"sql, nlp, machine learning, pandas, python","building models, ai research",Master,4,In Progress,image classification,Data Scientist
+"scrum, agile, communication, market research","leading teams, product strategy, user experience, business growth",Self-Taught,5,None,product launch,Product Manager
+"node.js, css, html, react","backend systems, ui design, building websites, frontend development",Bachelor,9,None,chat application,Web Developer
+"numpy, sql, statistics, pandas, deep learning, machine learning, python","ai research, analyzing data",PhD,2,Certified,image classification,Data Scientist
+"adobe xd, sketch, wireframing, user research","visual design, user interface, design capability, user testing",Bachelor,6,In Progress,user flow diagram,UX Designer
+"analytics, agile, communication","user experience, business growth, product strategy",PhD,0,None,product launch,Product Manager
+"c++, python, git, system design, java, algorithms","software architecture, optimizing performance, coding",PhD,10,In Progress,algorithm visualizer,Software Engineer
+"system design, git, c++","coding, backend logic, software architecture",Master,9,In Progress,scalable system,Software Engineer
+"algorithms, c++, system design, java, git, python, data structures","backend logic, software architecture, coding",PhD,5,Certified,algorithm visualizer,Software Engineer
+"css, javascript, react, api","frontend development, building websites, backend systems",Bachelor,0,In Progress,chat application,Web Developer
+"wireframing, sketch, figma, prototyping, adobe xd","visual design, user testing, design capability",PhD,9,Certified,user flow diagram,UX Designer
+"api, node.js, css","backend systems, frontend development, building websites, ui design",Bachelor,2,None,chat application,Web Developer
+"c++, algorithms, system design","backend logic, coding",Bachelor,10,In Progress,desktop application,Software Engineer
+"adobe xd, user research, figma, sketch, prototyping","visual design, user testing",Self-Taught,1,None,website redesign,UX Designer
+"agile, roadmapping, scrum, market research, communication","leading teams, user experience, product strategy",PhD,6,Certified,product launch,Product Manager
+"market research, agile, scrum, roadmapping, analytics, communication","leading teams, user experience, product strategy",PhD,8,In Progress,product launch,Product Manager
+"java, c++, system design, data structures, git, python, algorithms","backend logic, software architecture, coding, optimizing performance",Master,10,In Progress,algorithm visualizer,Software Engineer
+"roadmapping, analytics, market research, agile","leading teams, business growth",Master,6,None,user research,Product Manager
+"data structures, system design, python, algorithms, c++, git, java","optimizing performance, software architecture, backend logic, coding",Bachelor,4,Certified,scalable system,Software Engineer
+"market research, scrum, analytics, roadmapping","user experience, leading teams",Master,3,Certified,user research,Product Manager
+"java, git, c++, python","backend logic, software architecture",PhD,9,None,scalable system,Software Engineer
+"java, system design, git, data structures, algorithms, python","backend logic, software architecture, optimizing performance",Bachelor,4,In Progress,desktop application,Software Engineer
+"sql, numpy, machine learning, statistics, python, pandas","analyzing data, ai research, building models, solving complex problems",Bachelor,4,None,customer churn prediction,Data Scientist
+"data structures, system design, algorithms, python, c++, java","backend logic, coding, software architecture, optimizing performance",Self-Taught,1,Certified,scalable system,Software Engineer
+"prototyping, figma, sketch, adobe xd, user research","design capability, visual design",Master,5,None,user flow diagram,UX Designer
+"java, algorithms, c++","software architecture, coding, optimizing performance, backend logic",Bachelor,1,None,algorithm visualizer,Software Engineer
+"api, html, databases, css, javascript, react","ui design, backend systems",Self-Taught,2,Certified,chat application,Web Developer
+"statistics, python, nlp","building models, ai research",Self-Taught,6,None,sentiment analysis,Data Scientist
+"react, html, api, javascript","backend systems, ui design, building websites",Bachelor,5,None,portfolio website,Web Developer
+"system design, data structures, git, python, c++, java, algorithms","backend logic, coding, software architecture, optimizing performance",Master,8,None,algorithm visualizer,Software Engineer
+"machine learning, sql, statistics, numpy, nlp, deep learning","analyzing data, building models",Self-Taught,7,Certified,image classification,Data Scientist
+"figma, adobe xd, wireframing, prototyping, sketch, user research","user interface, design capability, user testing",PhD,7,None,mobile app design,UX Designer
+"git, c++, python","software architecture, optimizing performance",Master,6,In Progress,scalable system,Software Engineer
+"c++, data structures, system design, java, git, algorithms","coding, backend logic, optimizing performance",Master,3,Certified,algorithm visualizer,Software Engineer
+"adobe xd, sketch, figma, wireframing, user research, prototyping","user testing, visual design, user interface, design capability",Self-Taught,7,Certified,user flow diagram,UX Designer
+"analytics, market research, roadmapping, scrum","product strategy, user experience",PhD,6,Certified,market analysis,Product Manager
+"pandas, statistics, sql, nlp, machine learning, numpy","analyzing data, solving complex problems, ai research",PhD,5,None,image classification,Data Scientist
+"machine learning, numpy, sql, statistics, python","ai research, building models, analyzing data, solving complex problems",PhD,1,None,sentiment analysis,Data Scientist
+"sql, nlp, deep learning, python","ai research, solving complex problems, building models",PhD,6,None,image classification,Data Scientist
+"adobe xd, wireframing, figma","visual design, user testing, user interface",PhD,9,None,user flow diagram,UX Designer
+"communication, analytics, scrum, roadmapping, market research","product strategy, business growth, user experience, leading teams",Master,2,Certified,market analysis,Product Manager
+"agile, communication, analytics, roadmapping, scrum","leading teams, business growth, user experience",Master,2,Certified,market analysis,Product Manager
+"statistics, deep learning, pandas, machine learning, nlp, sql","building models, solving complex problems, ai research",Bachelor,8,Certified,customer churn prediction,Data Scientist
+"javascript, databases, react, html, node.js, css, api","frontend development, building websites",Self-Taught,6,Certified,chat application,Web Developer
+"react, api, css, node.js, javascript","building websites, backend systems, frontend development, ui design",Master,9,In Progress,portfolio website,Web Developer
+"roadmapping, scrum, analytics, communication","user experience, leading teams, business growth",Master,2,Certified,product launch,Product Manager
+"python, system design, git, algorithms, c++, java, data structures","optimizing performance, coding, backend logic",Master,5,None,scalable system,Software Engineer
+"api, node.js, react, javascript, databases","ui design, backend systems, frontend development, building websites",PhD,10,In Progress,portfolio website,Web Developer
+"nlp, deep learning, machine learning, sql, python, statistics","solving complex problems, building models, analyzing data, ai research",Self-Taught,4,In Progress,image classification,Data Scientist
+"algorithms, java, git, python, data structures, system design, c++","backend logic, optimizing performance, coding",Master,3,In Progress,desktop application,Software Engineer
+"roadmapping, market research, communication, scrum, agile, analytics","product strategy, business growth",Master,0,Certified,user research,Product Manager
+"sketch, prototyping, adobe xd, wireframing, figma","user interface, visual design",PhD,9,Certified,mobile app design,UX Designer
+"databases, react, html, css, node.js","ui design, building websites, frontend development, backend systems",Bachelor,5,Certified,portfolio website,Web Developer
+"communication, agile, market research, scrum","business growth, product strategy",Master,4,Certified,market analysis,Product Manager
+"adobe xd, user research, sketch, figma, prototyping","user testing, user interface, design capability, visual design",Self-Taught,6,None,mobile app design,UX Designer
+"java, c++, python, algorithms","coding, software architecture, backend logic, optimizing performance",PhD,5,Certified,algorithm visualizer,Software Engineer
+"user research, figma, adobe xd, prototyping","visual design, user interface, design capability",Self-Taught,0,In Progress,website redesign,UX Designer
+"numpy, python, deep learning, pandas, machine learning, statistics, nlp, sql","ai research, analyzing data",PhD,6,None,customer churn prediction,Data Scientist
+"communication, roadmapping, scrum, agile","product strategy, user experience, leading teams, business growth",Bachelor,7,None,product launch,Product Manager
+"javascript, css, react, node.js","frontend development, backend systems, building websites, ui design",Master,8,In Progress,portfolio website,Web Developer
+"agile, roadmapping, analytics, market research","business growth, leading teams",PhD,8,In Progress,product launch,Product Manager
+"adobe xd, wireframing, prototyping, sketch, user research, figma","user interface, design capability",Self-Taught,5,In Progress,user flow diagram,UX Designer
+"system design, data structures, git, c++, python","coding, optimizing performance",Self-Taught,0,None,desktop application,Software Engineer
+"python, pandas, sql, deep learning, numpy","ai research, solving complex problems, building models",PhD,4,None,sentiment analysis,Data Scientist
+"prototyping, figma, wireframing","user interface, user testing",PhD,6,None,website redesign,UX Designer
+"react, databases, html","frontend development, backend systems",Bachelor,4,None,e-commerce site,Web Developer
+"python, nlp, deep learning","building models, solving complex problems",Master,3,None,image classification,Data Scientist
+"agile, analytics, roadmapping, market research","business growth, user experience, product strategy",Master,9,In Progress,market analysis,Product Manager
+"roadmapping, market research, communication, scrum, agile, analytics","user experience, product strategy, business growth",Bachelor,3,In Progress,user research,Product Manager
+"agile, market research, analytics","business growth, user experience",PhD,1,In Progress,user research,Product Manager
+"agile, scrum, market research","user experience, product strategy",Bachelor,4,None,product launch,Product Manager
+"c++, algorithms, java, data structures, system design, git","optimizing performance, coding, backend logic",Master,9,Certified,algorithm visualizer,Software Engineer
+"html, node.js, databases, react","building websites, ui design, frontend development, backend systems",Master,10,None,e-commerce site,Web Developer
+"analytics, market research, communication, roadmapping, agile","business growth, user experience, leading teams, product strategy",Master,7,Certified,user research,Product Manager
+"nlp, python, deep learning, statistics, machine learning","solving complex problems, ai research, building models, analyzing data",PhD,4,In Progress,customer churn prediction,Data Scientist
+"node.js, javascript, css","ui design, frontend development",Master,5,None,chat application,Web Developer
+"css, databases, html","frontend development, building websites",Master,2,None,e-commerce site,Web Developer
+"java, c++, data structures","optimizing performance, backend logic, software architecture",Bachelor,9,In Progress,scalable system,Software Engineer
+"figma, wireframing, user research, sketch","design capability, visual design",Bachelor,7,In Progress,website redesign,UX Designer
+"numpy, python, sql, statistics, pandas, deep learning, machine learning","solving complex problems, ai research, analyzing data",Bachelor,1,Certified,image classification,Data Scientist
+"analytics, market research, agile, roadmapping","business growth, user experience, leading teams, product strategy",Bachelor,9,In Progress,market analysis,Product Manager
+"git, c++, algorithms, system design, data structures, python","optimizing performance, coding",Master,7,In Progress,algorithm visualizer,Software Engineer
+"pandas, sql, numpy, machine learning, statistics","analyzing data, building models, ai research, solving complex problems",Master,7,In Progress,image classification,Data Scientist
+"react, api, javascript, databases","ui design, backend systems",Master,2,None,portfolio website,Web Developer
+"html, css, javascript","ui design, frontend development, backend systems",Self-Taught,3,In Progress,portfolio website,Web Developer
+"algorithms, python, data structures, java, c++","optimizing performance, coding, backend logic, software architecture",Self-Taught,1,In Progress,scalable system,Software Engineer
+"html, react, api, databases, node.js, javascript, css","ui design, frontend development",Master,2,None,chat application,Web Developer
+"nlp, sql, pandas","solving complex problems, building models",Self-Taught,6,In Progress,image classification,Data Scientist
+"python, nlp, pandas, deep learning","ai research, analyzing data, solving complex problems, building models",Master,2,None,customer churn prediction,Data Scientist
+"wireframing, adobe xd, sketch","user interface, design capability",Self-Taught,9,None,website redesign,UX Designer
+"numpy, sql, pandas, machine learning","solving complex problems, building models, ai research, analyzing data",Bachelor,1,None,image classification,Data Scientist
+"user research, figma, adobe xd, sketch","user interface, design capability, visual design, user testing",Master,10,In Progress,website redesign,UX Designer
+"deep learning, python, machine learning, statistics, numpy, pandas, sql","ai research, building models",Self-Taught,10,In Progress,sentiment analysis,Data Scientist
+"databases, css, node.js, react, api","backend systems, building websites, ui design",Master,4,Certified,e-commerce site,Web Developer
+"prototyping, user research, wireframing, adobe xd, sketch, figma","user testing, design capability",PhD,2,None,website redesign,UX Designer
+"api, javascript, react, node.js","building websites, backend systems, ui design, frontend development",PhD,10,None,portfolio website,Web Developer
+"statistics, machine learning, deep learning","solving complex problems, ai research, analyzing data",Self-Taught,8,None,customer churn prediction,Data Scientist
+"nlp, statistics, sql","solving complex problems, analyzing data",Self-Taught,3,Certified,image classification,Data Scientist
+"roadmapping, scrum, agile, market research, communication, analytics","business growth, user experience, product strategy",PhD,5,In Progress,user research,Product Manager
+"java, system design, python, c++, algorithms, git","coding, software architecture",Self-Taught,0,In Progress,algorithm visualizer,Software Engineer
+"java, c++, algorithms, data structures","backend logic, software architecture, optimizing performance, coding",Master,8,Certified,scalable system,Software Engineer
+"figma, sketch, user research, wireframing","design capability, user interface, visual design, user testing",Bachelor,4,None,user flow diagram,UX Designer
+"api, node.js, css, react, javascript, databases, html","frontend development, building websites, backend systems",Bachelor,9,None,e-commerce site,Web Developer
+"scrum, communication, agile","leading teams, business growth, product strategy, user experience",Master,9,In Progress,product launch,Product Manager
+"wireframing, prototyping, figma, user research, adobe xd","user testing, design capability, user interface, visual design",Self-Taught,1,Certified,website redesign,UX Designer
+"deep learning, machine learning, numpy","ai research, building models",Master,1,Certified,sentiment analysis,Data Scientist
+"numpy, pandas, python","ai research, analyzing data, solving complex problems",Self-Taught,3,Certified,image classification,Data Scientist
+"html, databases, api, react, node.js, css","backend systems, frontend development, ui design, building websites",Self-Taught,3,Certified,e-commerce site,Web Developer
+"system design, algorithms, python, data structures, java, git","optimizing performance, coding, backend logic, software architecture",Master,2,In Progress,scalable system,Software Engineer
+"figma, adobe xd, user research, sketch","user interface, visual design, design capability, user testing",Master,9,In Progress,mobile app design,UX Designer
+"node.js, databases, javascript, html, api, react, css","frontend development, building websites",PhD,5,In Progress,chat application,Web Developer
+"javascript, node.js, api","backend systems, ui design, frontend development, building websites",Bachelor,0,None,e-commerce site,Web Developer
+"react, html, api","ui design, building websites",Self-Taught,9,None,chat application,Web Developer
+"python, c++, git, java, data structures, system design","coding, software architecture, optimizing performance",PhD,5,In Progress,scalable system,Software Engineer
+"sketch, adobe xd, figma, wireframing, prototyping","user interface, user testing",Self-Taught,9,In Progress,mobile app design,UX Designer
+"java, c++, system design, python, data structures","optimizing performance, software architecture, coding, backend logic",Master,2,Certified,desktop application,Software Engineer
+"deep learning, machine learning, pandas, nlp","building models, solving complex problems, analyzing data, ai research",Master,8,None,sentiment analysis,Data Scientist
+"c++, data structures, java, git, python, system design, algorithms","optimizing performance, software architecture, coding",Bachelor,3,In Progress,algorithm visualizer,Software Engineer
+"prototyping, wireframing, figma, adobe xd, sketch","user testing, visual design, user interface, design capability",Self-Taught,0,In Progress,user flow diagram,UX Designer
+"figma, user research, adobe xd","user interface, visual design",Bachelor,1,Certified,user flow diagram,UX Designer
+"pandas, deep learning, numpy, python, nlp, machine learning, statistics","ai research, analyzing data, solving complex problems, building models",Master,3,Certified,customer churn prediction,Data Scientist
+"javascript, databases, css, api","backend systems, frontend development, building websites",Master,9,None,portfolio website,Web Developer
+"roadmapping, communication, market research, scrum","business growth, product strategy, user experience, leading teams",Master,2,Certified,user research,Product Manager
+"pandas, machine learning, nlp, deep learning, sql, python, statistics","building models, ai research",Bachelor,6,In Progress,image classification,Data Scientist
+"statistics, pandas, python, machine learning, numpy, nlp, sql","solving complex problems, ai research, building models, analyzing data",PhD,2,None,image classification,Data Scientist
+"wireframing, prototyping, user research, sketch, adobe xd","user testing, design capability",Bachelor,6,None,user flow diagram,UX Designer
+"git, system design, c++","software architecture, optimizing performance, coding, backend logic",Self-Taught,7,None,scalable system,Software Engineer
+"roadmapping, communication, scrum, analytics","leading teams, business growth, user experience",PhD,10,Certified,user research,Product Manager
+"git, c++, system design, java, data structures, algorithms","optimizing performance, backend logic, coding",Self-Taught,4,Certified,desktop application,Software Engineer
+"algorithms, git, data structures, java","software architecture, coding",Self-Taught,1,Certified,algorithm visualizer,Software Engineer
+"statistics, nlp, pandas, machine learning, python, deep learning, sql, numpy","building models, ai research, analyzing data, solving complex problems",Master,9,Certified,customer churn prediction,Data Scientist
+"c++, system design, python","coding, optimizing performance, software architecture",Master,7,Certified,scalable system,Software Engineer
+"statistics, deep learning, python, machine learning, numpy","analyzing data, ai research",Master,0,In Progress,sentiment analysis,Data Scientist
+"javascript, html, databases, api, react","backend systems, frontend development, ui design, building websites",Master,4,Certified,chat application,Web Developer
+"node.js, react, databases, api, html, javascript","building websites, ui design, frontend development",Master,9,Certified,chat application,Web Developer
+"agile, analytics, roadmapping, market research, scrum, communication","product strategy, user experience, leading teams, business growth",PhD,10,Certified,market analysis,Product Manager
+"react, css, html, node.js, databases, javascript, api","ui design, backend systems, building websites",PhD,5,None,chat application,Web Developer
+"system design, data structures, c++, git","backend logic, software architecture, optimizing performance, coding",Bachelor,8,In Progress,algorithm visualizer,Software Engineer
+"api, html, node.js, css, javascript, react","backend systems, building websites, frontend development, ui design",Master,8,Certified,portfolio website,Web Developer
+"react, javascript, node.js, css","backend systems, frontend development, building websites",Master,6,In Progress,e-commerce site,Web Developer
+"scrum, agile, market research, roadmapping, analytics, communication","user experience, product strategy, leading teams, business growth",PhD,3,Certified,market analysis,Product Manager
+"analytics, market research, roadmapping, communication, agile, scrum","business growth, product strategy",Master,3,None,market analysis,Product Manager
+"scrum, analytics, agile","user experience, business growth, product strategy",PhD,6,In Progress,product launch,Product Manager
+"algorithms, data structures, c++, system design","optimizing performance, backend logic, software architecture",Bachelor,3,Certified,scalable system,Software Engineer
+"data structures, java, system design, algorithms, c++, git, python","optimizing performance, backend logic, coding, software architecture",PhD,4,In Progress,desktop application,Software Engineer
+"sketch, wireframing, user research","visual design, design capability",Self-Taught,8,None,website redesign,UX Designer
+"sketch, prototyping, figma","design capability, visual design",Self-Taught,2,None,website redesign,UX Designer
+"prototyping, sketch, wireframing, user research","visual design, design capability, user testing",Master,6,Certified,mobile app design,UX Designer
+"api, javascript, node.js, react","frontend development, building websites",Master,3,Certified,chat application,Web Developer
+"communication, market research, roadmapping","product strategy, user experience",Master,6,None,market analysis,Product Manager
+"prototyping, sketch, adobe xd, figma, wireframing","design capability, visual design, user interface",PhD,1,In Progress,mobile app design,UX Designer
+"market research, scrum, roadmapping","product strategy, leading teams",Self-Taught,7,In Progress,product launch,Product Manager
+"pandas, deep learning, nlp, statistics, python, machine learning, numpy","building models, solving complex problems, analyzing data, ai research",PhD,5,Certified,customer churn prediction,Data Scientist
+"agile, analytics, market research, scrum, communication, roadmapping","product strategy, leading teams, user experience",Bachelor,6,In Progress,market analysis,Product Manager
+"roadmapping, communication, scrum, agile, market research, analytics","leading teams, user experience",Bachelor,6,Certified,market analysis,Product Manager
+"scrum, agile, communication","leading teams, product strategy, user experience",Self-Taught,2,Certified,product launch,Product Manager
+"wireframing, sketch, user research, prototyping, figma","design capability, user interface, visual design",PhD,10,None,mobile app design,UX Designer
+"javascript, html, css, node.js, api","ui design, building websites",Master,2,In Progress,chat application,Web Developer
+"sql, pandas, statistics, python, numpy","building models, ai research, analyzing data, solving complex problems",Self-Taught,8,None,customer churn prediction,Data Scientist
+"react, javascript, css","frontend development, backend systems",Bachelor,6,None,e-commerce site,Web Developer
+"css, html, react, databases, javascript, node.js","ui design, building websites, frontend development",Bachelor,5,None,portfolio website,Web Developer
+"deep learning, python, machine learning, sql, statistics, numpy, nlp","building models, ai research",PhD,1,None,customer churn prediction,Data Scientist
