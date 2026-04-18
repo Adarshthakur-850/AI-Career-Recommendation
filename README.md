@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AI Career Recommendation System
 
 A Machine Learning powered application that suggests career paths based on user skills and interests.
@@ -26,3 +27,7 @@ A Machine Learning powered application that suggests career paths based on user 
 - `models/`: Saved ML models.
 - `api/`: FastAPI backend.
 - `ui/`: Streamlit frontend.
+=======
+# AI-Career-Recommendation
+ml project
+>>>>>>> e0c9375bd612e8fb191405c7daede901d94f1c53
